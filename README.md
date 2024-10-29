@@ -42,8 +42,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 2               | 20/01/2025 |      |                  |
 | 3               | 27/01/2025 (Tuesday seminar 13:00 - 14:00)|      |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/) and [Joe Williams](https://profiles.cardiff.ac.uk/staff/williamsj168), [Global Development and Environment](https://bristoluniversitypress.co.uk/global-development-and-environment)|
 | 4               | 03/02/2025 |      |                  |
-| 5               | 10/02/2025 (Thursday All-Geo lecture 16:00 - 18:00)|      |[Danny Dorling](https://www.dannydorling.org/), Title TBD|
-| 6               | 17/02/2025 |      |TBD: [Alessandro Rippa](https://www.sv.uio.no/sai/english/people/aca/alessrip/index.html), *Joint seminar with Political Ecology Research Group*|
+| 5               | 10/02/2025 (Thursday All-Geo lecture 16:00 - 18:00)|      |[Danny Dorling](https://www.dannydorling.org/), Title TBC|
+| 6               | 17/02/2025 |      |TBC: [Alessandro Rippa](https://www.sv.uio.no/sai/english/people/aca/alessrip/index.html), *Joint seminar with Political Ecology Research Group*|
 | 7               | 24/02/2025 |      |                  |
 | 8               | 03/03/2025 |      |                  |
 | 9               | 10/03/2025 |      |                  |
