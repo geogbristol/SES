@@ -24,7 +24,7 @@ See the below table.
 
 3.  Discussion sessions based on readings. Before this session, we provide you with reading 1 or 2 articles related to a specific topic, a new idea or an emerging issue. On the session then we give 10 min overview on the reading and facilitate discussion.
 
-Bellow you can find schedule for this academic year.
+Bellow you can find schedule for this academic year (TB2 only).
 
 ## Suggestions, questions, and feedback
 
