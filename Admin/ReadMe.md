@@ -27,6 +27,8 @@ Sean Fox	sean.fox@bristol.ac.uk
 
 Susan Parnell	susan.parnell@bristol.ac.uk		
 
+## Sharing your draft and providing comments on others draft
+Please drop your draft in the projects - SES draft sharing
 
 
 
