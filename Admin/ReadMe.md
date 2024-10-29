@@ -1,5 +1,8 @@
 # This is the group's admin file
 
+## Sharing your draft and providing comments on others draft
+Please drop your draft in the Projects - SES draft sharing
+
 ## Group academic staff emails 
 Beca Lleucu Phillips  beca_lleucu.phillips@bristol.ac.uk
 
@@ -27,8 +30,6 @@ Sean Fox	sean.fox@bristol.ac.uk
 
 Susan Parnell	susan.parnell@bristol.ac.uk		
 
-## Sharing your draft and providing comments on others draft
-Please drop your draft in the projects - SES draft sharing
 
 
 
