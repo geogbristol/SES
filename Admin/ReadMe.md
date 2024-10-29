@@ -27,28 +27,6 @@ Sean Fox	sean.fox@bristol.ac.uk
 
 Susan Parnell	susan.parnell@bristol.ac.uk		
 
-## Potential future speakers
-Sue Parnell (new book)
-
-Harriet Bulkeley – crossover with Political Ecology
-
-Marianna Mazzucato (UCL)
-
-Andrea Pollio – crossover with Bristol Digital Futures Institute
-
-Guy Poppy (new VC research) working on food systems	(crossover with Food Justice faculty research group)
-
-Andy Tatem, World POP	 – crossover with QuSS
-
-Rachel Payne at Welcome Trust	Climate and health PD
-
-Brett Christophers (Uppsala)
-
-Austin Zeiderman (LSE) 
-
-Agnes Arnold-Forster (Edinburgh)
-
-Andrés Rodríguez-Pose
 
 
 
