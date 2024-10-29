@@ -1,6 +1,6 @@
 # This is the group's admin file
 
-## Group member emails 
+## Group academic staff emails 
 Beca Lleucu Phillips  beca_lleucu.phillips@bristol.ac.uk
 
 Cait Robinson	caitlin.robinson@bristol.ac.uk		
