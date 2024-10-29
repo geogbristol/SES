@@ -3,7 +3,7 @@
 ## Share your draft and provide comments on others' draft
 For group members, you can share your draft and/or make suggestions/comments on others' draft [here](https://github.com/orgs/geogbristol/projects/3)
 
-To gain access to this project, please register a GitHub account and email [me](malto: qiujie.shi@bristol.ac.uk) of your GitHub handle (i.e. name of your GitHub account).
+To gain access to this project, please register a GitHub account and email [Qiujie](mailto:qiujie.shi@bristol.ac.uk) of your GitHub handle (i.e. name of your GitHub account).
 
 ## Group academic staff emails
 | **Name**            | **Email**       | 
