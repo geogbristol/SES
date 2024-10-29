@@ -55,4 +55,4 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Spring vacation | 21/04/2025 |      |                  |
 | TB2 AP          | 28/04/2025 |      |                  |
 | TB2 AP          | 05/05/2025 |      |                  |
-| TB2 AP          | 12/05/2025 |      |                  | 
+| TB2 AP          | 12/05/2025 |      |SES away day      | 
