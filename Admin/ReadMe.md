@@ -1,7 +1,7 @@
 # This is the group's admin file
 
 ## Sharing your draft and providing comments on others draft
-Please drop your draft in the Projects - SES draft sharing
+Please drop your draft in the Projects - SES-Draft/feedback sharing
 
 ## Group academic staff emails 
 Beca Lleucu Phillips  beca_lleucu.phillips@bristol.ac.uk
