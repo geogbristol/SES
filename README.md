@@ -10,7 +10,7 @@ During 2024/25, the times for our seminars will vary slightly. Please be sure to
 
 ## Joining online
 
-Here is the [Zoom link](https://bristol-ac-uk.zoom.us/j/92344645473) to join online if needed.
+Here is the [Zoom link](https://bristol-ac-uk.zoom.us/j/91963221293) to join online if needed.
 
 ## Where do we meet?
 
