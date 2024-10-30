@@ -32,27 +32,27 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 ## Schedule
 
-| Week            | W/C        | Room | Speaker          | 
+| Week            | Date       | Room | Speaker          | 
 |-----------------|------------|------|------------------|
 | Winter holidays | 16/12/2024 |      |                  |
 | Winter holidays | 23/12/2024 |      |                  |
 | Winter holidays | 30/01/2025 |      |                  |
 | Winter holidays | 06/01/2025 |      |                  |
-| 1               | 13/01/2025 (Tuesday seminar 13:00 - 14:00)| SR2     |[Sean Fox](https://www.bristol.ac.uk/people/person/Sean-Fox-ade0ab9d-58b0-4b25-833a-73e8d4633d42/), How we became urban|
-| 2               | 20/01/2025 | SR2      |                  |
-| 3               | 27/01/2025 (Tuesday seminar 13:00 - 14:00)|  SR2     |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/) and [Joe Williams](https://profiles.cardiff.ac.uk/staff/williamsj168), [Global Development and Environment](https://bristoluniversitypress.co.uk/global-development-and-environment)|
-| 4               | 03/02/2025 | SR2      |                  |
-| 5               | 10/02/2025 (Thursday All-Geo lecture 16:00 - 18:00)| Peel/Hepple     |[Danny Dorling](https://www.dannydorling.org/), Title TBC|
-| 6               | 17/02/2025 | SR2      |TBC: [Alessandro Rippa](https://www.sv.uio.no/sai/english/people/aca/alessrip/index.html), *Joint seminar with Political Ecology Research Group*|
-| 7               | 24/02/2025 | SR2      |                  |
-| 8               | 03/03/2025 |      |                  |
-| 9               | 10/03/2025 | SR2      |                  |
-| 10              | 17/03/2025 |      |                  |
-| 11              | 24/03/2025 | SR2      |                  |
-| 12              | 31/03/2025 |      |                  |
+| 1               | 14/01/2025 (Tuesday seminar 13:00 - 14:00)| SR2     |[Sean Fox](https://www.bristol.ac.uk/people/person/Sean-Fox-ade0ab9d-58b0-4b25-833a-73e8d4633d42/), How we became urban|
+| 2               | 21/01/2025 | SR2      |                  |
+| 3               | 28/01/2025 (Tuesday seminar 13:00 - 14:00)|  SR2     |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/) and [Joe Williams](https://profiles.cardiff.ac.uk/staff/williamsj168), [Global Development and Environment](https://bristoluniversitypress.co.uk/global-development-and-environment)|
+| 4               | 04/02/2025 | SR2      |                  |
+| 5               | 13/02/2025 (Thursday All-Geo lecture 16:00 - 18:00)| Peel/Hepple     |[Danny Dorling](https://www.dannydorling.org/), Title TBC|
+| 6               | 18/02/2025 | SR2      |TBC: [Alessandro Rippa](https://www.sv.uio.no/sai/english/people/aca/alessrip/index.html), *Joint seminar with Political Ecology Research Group*|
+| 7               | 25/02/2025 | SR2      |                  |
+| 8               | 04/03/2025 |      |                  |
+| 9               | 11/03/2025 | SR2      |                  |
+| 10              | 18/03/2025 |      |                  |
+| 11              | 25/03/2025 | SR2      |                  |
+| 12              | 01/04/2025 |      |                  |
 | Spring vacation | 07/04/2025 |      |                  |
 | Spring vacation | 14/04/2025 |      |                  |
 | Spring vacation | 21/04/2025 |      |                  |
-| TB2 AP          | 28/04/2025 | SR2      |                  |
-| TB2 AP          | 05/05/2025 |      |                  |
-| TB2 AP          | 12/05/2025 | SR2      |SES away day      | 
+| TB2 AP          | 29/04/2025 | SR2      |                  |
+| TB2 AP          | 06/05/2025 |      |                  |
+| TB2 AP          | 13/05/2025 | SR2      |SES away day      | 
