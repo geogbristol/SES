@@ -6,7 +6,7 @@ We meet for an hour once a week during academic year to discuss what's new in th
 
 ## When do we meet?
 
-During 2024/25, the times for our seminars will vary slightly. Please be sure to check the timing for each week (See the below table). We will usually hold seminars on Tuesdays 13.00-14.00.
+During 2024/25, we will **usually** hold seminars on Tuesdays 13.00-14.00. But there will be occassions where the times for our seminars would be different. Please be sure to check the timing for each week (See the below table).
 
 ## Joining online
 
