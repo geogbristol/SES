@@ -58,7 +58,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 16               | 04/02/2025 | SR2      |                  |
 | 17               | 13/02/2025 (Thursday All-Geo lecture 16:00 - 18:00)| Peel/Hepple     |[Danny Dorling](https://www.dannydorling.org/), Title TBC|
 | 18               | 18/02/2025 | SR2      |TBC: [Alessandro Rippa](https://www.sv.uio.no/sai/english/people/aca/alessrip/index.html), *Joint seminar with Political Ecology Research Group*|
-| 19               | 25/02/2025 | SR2      |                  |
+| 19               | 25/02/2025 | SR2      |TBC: PGR session              |
 | 20               | 04/03/2025 |      |                  |
 | 21               | 11/03/2025 | SR2      |                  |
 | 22              | 18/03/2025 |      |                  |
