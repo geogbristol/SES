@@ -34,20 +34,20 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 | Week | Date  | Room             | Speaker | SES Social event |
 |------|-------|------------------|---------|-------------------|
-| 1    | 17/09/2024 |      | [Jessica Espey](https://www.bristol.ac.uk/people/person/Jessica-Espey-1453b192-4b3e-4180-9850-08c8092cc4fb/) and [Zhengli Huang](https://www.sheffield.ac.uk/urban-institute/who-we-are/zhengli-huang), Strengthening Evidence-Informed Policymaking in International Processes|
-| 2    | 25/09/2024 (Wednesday all-day event) |      |[Lawrence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/) and [World POP](http://www.worldpop.org), Using population data to understand risk|
+| 1    | 17/09/2024 |Fry LG.20      | [Jessica Espey](https://www.bristol.ac.uk/people/person/Jessica-Espey-1453b192-4b3e-4180-9850-08c8092cc4fb/) and [Zhengli Huang](https://www.sheffield.ac.uk/urban-institute/who-we-are/zhengli-huang), Strengthening Evidence-Informed Policymaking in International Processes|
+| 2    | 25/09/2024 (Wednesday all-day event) |Berkely Square      |[Lawrence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/) and [World POP](http://www.worldpop.org), Using population data to understand risk|
 | 3               | 01/10/2024 |      |CANCELLED|
 | 4               | 08/10/2024 |      |CANCELLED |
-| 5               | 15/10/2024 |      |[Jonny Hazell](https://www.csap.cam.ac.uk/network/jonny-hazell/), [Biodiversity, food systems and genetic technologies](https://royalsociety.org/-/media/policy/projects/gene-tech/genetically-modified-organisms-regulation-policy-briefing.pdf)|
-| EXTRA LECTURE   | 18/10/2024 (Friday guest lecture 12:00 - 14:00)|      |[Henry Yeung](https://courses.nus.edu.sg/course/geoywc/henry.htm), [Theory and Explanation in Geography](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119845515?msockid=34afa784b14f6a3f2565b2aeb0af6b8c)|
+| 5               | 15/10/2024 |Fry G.06      |[Jonny Hazell](https://www.csap.cam.ac.uk/network/jonny-hazell/), [Biodiversity, food systems and genetic technologies](https://royalsociety.org/-/media/policy/projects/gene-tech/genetically-modified-organisms-regulation-policy-briefing.pdf)|
+| EXTRA LECTURE   | 18/10/2024 (Friday guest lecture 12:00 - 14:00)|Hepple      |[Henry Yeung](https://courses.nus.edu.sg/course/geoywc/henry.htm), [Theory and Explanation in Geography](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119845515?msockid=34afa784b14f6a3f2565b2aeb0af6b8c)|
 | 6               | 22/10/2024|      |CANCELLED|
-| 7               | 29/10/2024|      |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/), [Extreme Heat, outdoor work and health in urban Vietnam](https://natcen.ac.uk/publications/health-impacts-climate-change-precarious-outdoor-workers-urban-megacities-vietnam)|
-| 8               | 05/11/2024|      |CANCELLED |
+| 7               | 29/10/2024|Fry G.06      |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/), [Extreme Heat, outdoor work and health in urban Vietnam](https://natcen.ac.uk/publications/health-impacts-climate-change-precarious-outdoor-workers-urban-megacities-vietnam)|
+| 8               | 05/11/2024|Fry G.06      |CANCELLED |
 | 9               | 12/11/2024|Fry G.06     |[Maria Fannin](https://www.bristol.ac.uk/people/person/Maria-Fannin-1c38a3b9-29c8-4ff4-89d6-325ba0e8f1a5/) and [Jennifer Crane](https://www.bristol.ac.uk/people/person/Jennifer-Crane-fd5e0411-6dae-4c5c-abb2-f711c31c3cdc/), Using social media research methods to understand reproductive health|
 | 10              | 19/11/2024|      |CANCELLED|
 | 11              | 26/11/2024|Fry G.06      |TBC: [Jennifer Langill](https://www.mcgill.ca/geography/jennifer-langill)|     SES pub trip         |
 | 12              | 03/12/2024|      |CANCELLED|
-| TB1 AP          | 10/12/2024|Fry LG20     |[Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), Developing a Net Zero Vulnerability Index for England and Wales. *Joint seminar with QuSS Research Group*   |
+| TB1 AP          | 10/12/2024|Fry LG.20     |[Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), Developing a Net Zero Vulnerability Index for England and Wales. *Joint seminar with QuSS Research Group*   |
 | Winter holidays | 16/12/2024 |      |                  |
 | Winter holidays | 23/12/2024 |      |                  |
 | Winter holidays | 30/01/2025 |      |                  |
