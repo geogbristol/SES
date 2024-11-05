@@ -61,7 +61,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 19               | 25/02/2025 | SR2      |TBC: PGR session              |
 | 20               | 04/03/2025 |      |                  |
 | 21               | 11/03/2025 | SR2      |                  |
-| 22              | 18/03/2025 |      |                  |
+| 22              | 19/03/2025 (Wednesday Inaugural lecture 16:00 - 18: 00)| Peel/Hepple     |[Michele Acuto](https://www.bristol.ac.uk/people/person/Michele-Acuto-e478f1f9-3934-4a83-91e6-4707cb949ba7/), Title TBC                  |
 | 23              | 25/03/2025 | SR2      |                  |
 | 24              | 01/04/2025 |      |                  |
 | Spring vacation | 07/04/2025 |      |                  |
