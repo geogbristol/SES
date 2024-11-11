@@ -43,7 +43,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 6               | 22/10/2024|      |CANCELLED|
 | 7               | 29/10/2024|Fry G.06      |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/), [Extreme Heat, outdoor work and health in urban Vietnam](https://natcen.ac.uk/publications/health-impacts-climate-change-precarious-outdoor-workers-urban-megacities-vietnam)|
 | 8               | 05/11/2024|Fry G.06      |CANCELLED |
-| 9               | 12/11/2024|Fry G.06     |[Maria Fannin](https://www.bristol.ac.uk/people/person/Maria-Fannin-1c38a3b9-29c8-4ff4-89d6-325ba0e8f1a5/) and [Jennifer Crane](https://www.bristol.ac.uk/people/person/Jennifer-Crane-fd5e0411-6dae-4c5c-abb2-f711c31c3cdc/), Using social media research methods to understand reproductive health|
+| 9               | 12/11/2024|Fry G.06     |[Maria Fannin](https://www.bristol.ac.uk/people/person/Maria-Fannin-1c38a3b9-29c8-4ff4-89d6-325ba0e8f1a5/) and [Jennifer Crane](https://www.bristol.ac.uk/people/person/Jennifer-Crane-fd5e0411-6dae-4c5c-abb2-f711c31c3cdc/), Experiencing the Algorithm:​ Revealing Pregnancy, Gender, Revealing Instagram?|
 | 10              | 19/11/2024|      |CANCELLED|
 | 11              | 26/11/2024|Fry G.06      |TBC: [Jennifer Langill](https://www.mcgill.ca/geography/jennifer-langill)|     SES pub trip         |
 | 12              | 03/12/2024|      |CANCELLED|
