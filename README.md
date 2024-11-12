@@ -65,7 +65,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 23              | 25/03/2025 | SR2      |                  |
 | 24              | 01/04/2025 |      |                  |
 | Spring vacation | 07/04/2025 |      |                  |
-| Spring vacation | 14/04/2025 |      |                  |
+| Spring vacation | 14/04/2025 |      |TBC: Practicing for RGS Mid-term PhD conference                  |
 | Spring vacation | 21/04/2025 |      |                  |
 | TB2 AP          | 29/04/2025 | SR2      |                  |
 | TB2 AP          | 06/05/2025 |      |                  |
