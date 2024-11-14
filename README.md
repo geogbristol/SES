@@ -68,5 +68,5 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Spring vacation | 15/04/2025 | SR2     |TBC: Practicing for RGS Mid-term PhD conference                  |
 | Spring vacation | 22/04/2025 | SR2     |                  |
 | TB2 AP          | 29/04/2025 | SR2      |                  |
-| TB2 AP          | 06/05/2025 |      |                  |
+| TB2 AP          | 06/05/2025 |      |[Roger Burrows](https://www.bristol.ac.uk/people/person/Roger-Burrows-3211401a-ded4-4db6-ae16-b9eb3a29a7ce/), [NRx: A Strange Brew - Based Deleuzians, Techno-Fogies and Billionaire Libertarians](https://journals.sagepub.com/doi/10.1177/0263276421999439) |
 | TB2 AP          | 13/05/2025 | SR2      |SES away day      | 
