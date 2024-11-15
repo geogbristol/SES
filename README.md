@@ -45,7 +45,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 8               | 05/11/2024|Fry G.06      |CANCELLED |
 | 9               | 12/11/2024|Fry G.06     |[Maria Fannin](https://www.bristol.ac.uk/people/person/Maria-Fannin-1c38a3b9-29c8-4ff4-89d6-325ba0e8f1a5/) and [Jennifer Crane](https://www.bristol.ac.uk/people/person/Jennifer-Crane-fd5e0411-6dae-4c5c-abb2-f711c31c3cdc/), Experiencing the Algorithm:​ Revealing Pregnancy, Gender, Revealing Instagram?|
 | 10              | 19/11/2024|      |CANCELLED|
-| 11              | 26/11/2024|Fry G.06      |TBC: [Jennifer Langill](https://www.mcgill.ca/geography/jennifer-langill)|     SES pub trip         |
+| 11              | 26/11/2024|Fry G.06      |TBC: [Jennifer Langill](https://sites.google.com/view/jenniferlangill)|     SES pub trip         |
 | 12              | 03/12/2024|      |CANCELLED|
 | TB1 AP          | 10/12/2024|Fry LG.20     |[Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), Developing a Net Zero Vulnerability Index for England and Wales. *Joint seminar with QuSS Research Group*   |
 | Winter holidays | 16/12/2024 |      |                  |
