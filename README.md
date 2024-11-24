@@ -60,7 +60,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 18               | 18/02/2025 | Fry G.06      |TBC: [Alessandro Rippa](https://www.sv.uio.no/sai/english/people/aca/alessrip/index.html), *Joint seminar with Political Ecology Research Group*|
 | 19               | 25/02/2025 | Fry G.06      |              |
 | 20               | 04/03/2025 | Fry G.06     |                  |
-| 21               | 11/03/2025 | Fry G.06      |                  |
+| 21               | 11/03/2025 | Fry G.06      |[Alice Watson](https://www.geog.ox.ac.uk/staff/awatson.html), Title TBC                  |
 | 22              | 19/03/2025 (Wednesday Inaugural lecture 16:00 - 18: 00)| Peel/Hepple     |[Michele Acuto](https://www.bristol.ac.uk/people/person/Michele-Acuto-e478f1f9-3934-4a83-91e6-4707cb949ba7/), Title TBC                  |
 | 23              | 25/03/2025 | Fry G.06      |PGR session: Shadma Ahmed &  Shize Zhang                |
 | 24              | 01/04/2025 | Fry G.06     |                  |
