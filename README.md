@@ -63,7 +63,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 21               | 11/03/2025 | Fry G.06      |[Alice Watson](https://www.geog.ox.ac.uk/staff/awatson.html), Title TBC                  |
 | 22              | 19/03/2025 (Wednesday Inaugural lecture 16:00 - 18: 00)| Peel/Hepple     |[Michele Acuto](https://www.bristol.ac.uk/people/person/Michele-Acuto-e478f1f9-3934-4a83-91e6-4707cb949ba7/), Title TBC                  |
 | 23              | 25/03/2025 | Fry G.06      |PGR session: Shadma Ahmed &  Shize Zhang                |
-| 24              | 01/04/2025 | Fry G.06     |                  |
+| 24              | 01/04/2025 | Fry G.06     |[Catherine Phipps](https://research-information.bris.ac.uk/en/persons/catherine-phipps), Title TBC                  |
 | Spring vacation | 08/04/2025 | Fry G.06     |                  |
 | Spring vacation | 15/04/2025 | Fry G.06     |TBC: Practicing for RGS Mid-term PhD conference                  |
 | Spring vacation | 22/04/2025 | Fry G.06     |                  |
