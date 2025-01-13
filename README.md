@@ -55,7 +55,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 13               | 14/01/2025| Fry G.06     |CANCELLED          |
 | 14               | 21/01/2025 | Fry G.06      |[Sean Fox](https://www.bristol.ac.uk/people/person/Sean-Fox-ade0ab9d-58b0-4b25-833a-73e8d4633d42/), How we became urban |
 | 15               | 28/01/2025 |  Fry G.06     |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/) and [Joe Williams](https://profiles.cardiff.ac.uk/staff/williamsj168), [Global Development and Environment](https://bristoluniversitypress.co.uk/global-development-and-environment)|
-| 16               | 04/02/2025 | Fry G.06      |                  |
+| 16               | 04/02/2025 | Fry G.06      |[Claire Mercer](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/claire-mercer), [The Suburban Frontier: Middle-Class Construction in Dar es Salaam](https://www.ucpress.edu/books/the-suburban-frontier/paper)                  |
 | 17               | 13/02/2025 (Thursday All-Geo lecture 16:00 - 18:00)| Peel/Hepple     |[Danny Dorling](https://www.dannydorling.org/), Title TBC|
 | 18               | 18/02/2025 | Fry G.06      |TBC: [Alessandro Rippa](https://www.sv.uio.no/sai/english/people/aca/alessrip/index.html), *Joint seminar with Political Ecology Research Group*|
 | 19               | 25/02/2025 | Fry G.06      |              |
