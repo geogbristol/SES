@@ -8,10 +8,6 @@ We meet for an hour once a week during academic year to discuss what's new in th
 
 During 2024/25, we will **usually** hold seminars on Tuesdays 13.00-14.00. But there will be occassions where the times for our seminars/lectures/events would be different (will be specified in the below table).
 
-## Joining online
-
-Here is the [Zoom link](https://bristol-ac-uk.zoom.us/j/91963221293) to join online if needed.
-
 ## Where do we meet?
 
 See the below table.
