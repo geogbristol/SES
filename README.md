@@ -53,7 +53,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 15               | 28/01/2025 |  Fry G.06     |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/) and [Joe Williams](https://profiles.cardiff.ac.uk/staff/williamsj168), [Global Development and Environment](https://bristoluniversitypress.co.uk/global-development-and-environment)|                  | Y |
 | 16               | 04/02/2025 | Fry G.06      |[Claire Mercer](https://www.lse.ac.uk/geography-and-environment/people/academic-staff/claire-mercer), [The Suburban Frontier: Middle-Class Construction in Dar es Salaam](https://www.ucpress.edu/books/the-suburban-frontier/paper)                  |                  | Y |
 | 17               | 11/02/2025 | Fry G.06     ||
-| 18               | 18/02/2025 | Fry G.06      |TBC: [Alessandro Rippa](https://www.sv.uio.no/sai/english/people/aca/alessrip/index.html), *Joint seminar with Political Ecology Research Group*|
+| 18               | 18/02/2025 | Fry G.06      ||
 | 19               | 25/02/2025 | Fry G.06      |              |
 | 20               | 05/03/2025 (Wednesday All-Geo lecture 16:00 - 18:00)| Peel/Hepple     |[Danny Dorling](https://www.dannydorling.org/), The Next Crisis: what we worry about, and why?                  |
 | 21               | 11/03/2025 | Fry G.06      |[Alice Watson](https://www.geog.ox.ac.uk/staff/awatson.html), Title TBC                  |                  | Y |
