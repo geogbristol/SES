@@ -56,7 +56,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 18               | 18/02/2025 | Fry G.06      ||
 | 19               | 25/02/2025 | Fry G.06      |[Zhe Wang](https://www.education.ox.ac.uk/person/zhe-wang/), International education mobility of Chinese students and socio-spatial inequalities in China                  |                  | Y |
 | 20               | 05/03/2025 (Wednesday All-Geo lecture 16:00 - 18:00)| Peel/Hepple     |[Danny Dorling](https://www.dannydorling.org/), The Next Crisis: what we worry about, and why?                  |                  | Y |
-| 21               | 11/03/2025 | Fry G.06      |[Alice Watson](https://www.geog.ox.ac.uk/staff/awatson.html), Title TBC                  |                  | Y |
+| 21               | 11/03/2025 | Fry G.06      |[Alice Watson](https://www.geog.ox.ac.uk/staff/awatson.html), Listening to Europe’s Migration ‘Crisis’: Imaginative geographies of forced migration and refugee settlement on BBC Radio 4                  |                  | Y |
 | 22              | 19/03/2025 (Wednesday Inaugural lecture 16:00 - 18: 00)| Peel/Hepple     |[Michele Acuto](https://www.bristol.ac.uk/people/person/Michele-Acuto-e478f1f9-3934-4a83-91e6-4707cb949ba7/), On the night shift: why are we doing research at 3am?             |                  | Y |
 | 23              | 25/03/2025 | Fry G.06      |                |                  |  |
 | 24              | 01/04/2025 | Fry G.06     |[Catherine Phipps](https://research-information.bris.ac.uk/en/persons/catherine-phipps), Title TBC                  |                  | Y |
