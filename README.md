@@ -41,8 +41,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 9   | 17/11/2025|
 | 10   | 24/11/2025|
 | 11   | 01/12/2025|
-| TB1 AP | 08/12/2025|
-| TB1 AW | 15/12/2025 |    
+| 12 | 08/12/2025|
+| TB1 AP | 15/12/2025 |    
 | Winter holidays | 22/12/2025 |    
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
@@ -61,9 +61,9 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Spring vacation | 06/04/2026 | 
 | 22 | 13/04/2026 | 
 | 23 | 20/04/2026 | 
-| TB2 AP          | 27/04/2026 | 
-| TB2 AW          | 04/05/2026 | 
-| TB2 AW          | 11/05/2026 | 
-| TB2 AW          | 18/05/2026 | 
+| 24 | 27/04/2026 | 
+| TB2 AP          | 04/05/2026 | 
+| TB2 AP          | 11/05/2026 | 
+| TB2 AP          | 18/05/2026 | 
 | SV        | 25/05/2026 | 
 | SV        | 01/06/2026 |
