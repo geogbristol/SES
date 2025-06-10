@@ -13,7 +13,6 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 |[Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins)	|ed.atkins@bristol.ac.uk *(co-lead)*|		
 |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/)	|james.duminy@bristol.ac.uk|		
 |[Jaskiran Kaur Chohan](https://www.bristol.ac.uk/people/person/Jaskiran%20Kaur-Chohan-96afad23-ec76-41ad-bb2f-3c5e0892adac/) |j.chohan@bristol.ac.uk|
-|[Jess Espey](https://research-information.bris.ac.uk/en/persons/jessica-m-espey-2)	|jessica.espey@bristol.ac.uk|		
 |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/)	|jonathan.rigg@bristol.ac.uk|
 |[Julie MacLeavy](https://www.bristol.ac.uk/people/person/Julie-MacLeavy-be768aa8-6763-4913-a366-0adf4edaf5d1/)	|Julie.Macleavy@bristol.ac.uk|		
 |[Maria Fannin](https://www.bristol.ac.uk/people/person/Maria-Fannin-1c38a3b9-29c8-4ff4-89d6-325ba0e8f1a5/)	|M.Fannin@bristol.ac.uk|
