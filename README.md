@@ -65,5 +65,5 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | TB2 AP          | 04/05/2026 | 
 | TB2 AP          | 11/05/2026 | 
 | TB2 AP          | 18/05/2026 | 
-| SV        | 25/05/2026 | 
+| SV        | 25/05/2026 |      |[Andrea Pollio](https://www.polito.it/personale?p=andrea.pollio), [Silicon Elsewhere: Nairobi, Global China, and the Promise of Techno-Capital](https://www.ucpress.edu/books/silicon-elsewhere/paper)| 
 | SV        | 01/06/2026 |
