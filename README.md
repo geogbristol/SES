@@ -30,7 +30,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 | Week | Date  | Room             | Speaker | SES Social event | Calendar created? |
 |------|-------|------------------|---------|-------------------| --------------- |
-| 1    | 22/09/2025 |      |Welcoming PGRs: Two-slides introduction to each other     |
+| 1    | 22/09/2025 |      |Welcoming PGRs: Get to know each other through two-slides    |
 | 2    | 29/09/2025 |      |      |
 | 3    | 06/10/2025 |      |    |
 | 4    | 13/10/2025 |      |    |
