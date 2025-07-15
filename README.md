@@ -42,7 +42,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 10   | 24/11/2025|
 | 11   | 01/12/2025|
 | 12 | 08/12/2025|
-| TB1 AP | 15/12/2025 |    
+| TB1 AP | 15/12/2025 |      |TBC: [Kah Wee Lee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/)   |
 | Winter holidays | 22/12/2025 |    
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
