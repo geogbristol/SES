@@ -40,7 +40,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 8    | 10/11/2025|
 | 9   | 17/11/2025|
 | 10   | 24/11/2025|
-| 11   | 01/12/2025|
+| 11   | 01/12/2025 (QuSES seminar)|      |Ed Atkins, Caitlin Robinson, Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)||
 | 12 | 08/12/2025|
 | TB1 AP | 15/12/2025 |      |TBC: [Kah Wee Lee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/)   |
 | Winter holidays | 22/12/2025 |    
