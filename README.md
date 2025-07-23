@@ -35,7 +35,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 3    | 06/10/2025 |      |    |
 | 4    | 13/10/2025 |      |    |
 | 5    | 20/10/2025 |      |[David Jackman](https://www.qeh.ox.ac.uk/people/david-jackman), [Syndicates and Societies: Criminal Politics in Dhaka](https://www.cambridge.org/core/books/syndicates-and-societies/D27729AEAA04A054C7A9D8B5BA07052B)|
-| 6    | 27/10/2025|  
+| 6 (Consolidation week)    | 27/10/2025|  
 | 7    | 03/11/2025|
 | 8    | 10/11/2025|
 | 9   | 17/11/2025|
