@@ -28,7 +28,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 ## Schedule
 
-| Week | w/c date  | Room             | Speaker | SES Social event | Calendar created? |
+| AY week | w/c  | Room             | Speaker | SES Social event | Calendar created? |
 |------|-------|------------------|---------|-------------------| --------------- |
 | 1    | 22/09/2025 |      |Welcoming PGRs: Get to know each other through two-slides    |
 | 2    | 29/09/2025 |      |      |
