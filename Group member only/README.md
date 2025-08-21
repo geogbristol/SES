@@ -41,6 +41,10 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 |Sthembio Mize |sthembiso.mkhize@bristol.ac.uk|
 |Mingcan Rong |mingcan.rong@bristol.ac.uk|
 |Jiao(Jade) Zhou |jiao.zhou@bristol.ac.uk|
+|Weiyi Li ||
+|Emily Slater ||
+|Erin Rugland ||
+
 
 
 
