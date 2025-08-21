@@ -33,7 +33,7 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 |Madison Lindeman |madison.lindeman@bristol.ac.uk|
 |Skylar Lindsay |skylar.lindsay@bristol.ac.uk|
 |Zvikomborero Maziyanhanga |z.maziyanhanga@bristol.ac.uk|
-|Matthew Robbins |matt.robbins@bristol.ac.uk|
+|Matt Robbins |matt.robbins@bristol.ac.uk|
 |Jennifer Weeks |jennifer.weeks@bristol.ac.uk|
 |Hubin Wei |hubin.wei@bristol.ac.uk|
 |Shize Zhang |shize.zhang@bristol.ac.uk|
