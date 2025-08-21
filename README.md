@@ -30,7 +30,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 | AY week | w/b  | Room             | Speaker | SES Social event | Calendar created? |
 |------|-------|------------------|---------|-------------------| --------------- |
-| 1    | 22/09/2025 |      |Welcoming PGRs: Get to know each other through two-slides    |
+| 1    | 22/09/2025 |      |Welcoming (back) PGRs: Cakes, coffes, and chats   |
 | 2    | 29/09/2025 |      |[Sue Parnell](http://bristol.ac.uk/people/person/Susan-Parnell-dc8f815c-7ddb-42e0-b7af-5f74b7c5c3af/), [Cities rethought](https://www.politybooks.com/bookdetail?book_slug=cities-rethought-a-new-urban-disposition--9781509565603) |
 | 3    | 06/10/2025 |      |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/), The relational village|
 | 4    | 13/10/2025 |      |    |
