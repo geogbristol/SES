@@ -25,7 +25,7 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 ## Group PGR emails
 | **Name**            | **Email**       | 
 |---------------------|-----------------|
-|[Beca Lleucu Phillips](https://research-information.bris.ac.uk/en/persons/beca-lleucu-phillips) |beca_lleucu.phillips@bristol.ac.uk|
+|Beca Lleucu Phillips |beca_lleucu.phillips@bristol.ac.uk|
 |Shadma Ahmed |shadma.ahmed@bristol.ac.uk|
 |Chris Bean |chris.bean@bristol.ac.uk|
 |Pelumi Botti |pelumi.botti@bristol.ac.uk|
