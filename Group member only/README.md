@@ -26,7 +26,22 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 | **Name**            | **Email**       | 
 |---------------------|-----------------|
 |[Beca Lleucu Phillips](https://research-information.bris.ac.uk/en/persons/beca-lleucu-phillips) |beca_lleucu.phillips@bristol.ac.uk|
-
+|Shadma Ahmed |shadma.ahmed@bristol.ac.uk|
+|Chris Bean |chris.bean@bristol.ac.uk|
+|Pelumi Botti |pelumi.botti@bristol.ac.uk|
+|Yechun Lin |yechun.lin@bristol.ac.uk|
+|Madison Lindeman |madison.lindeman@bristol.ac.uk|
+|Skylar Lindsay |skylar.lindsay@bristol.ac.uk|
+|Zvikomborero Maziyanhanga |z.maziyanhanga@bristol.ac.uk|
+|Matthew Robbins |matt.robbins@bristol.ac.uk|
+|Jennifer Weeks |jennifer.weeks@bristol.ac.uk|
+|Hubin Wei |hubin.wei@bristol.ac.uk|
+|Shize Zhang |shize.zhang@bristol.ac.uk|
+|Chris Lawer |tf24131@bristol.ac.uk|
+|Shiqi Li |oj25394@bristol.ac.uk|
+|Sthembio Mize |sthembiso.mkhize@bristol.ac.uk|
+|Mingcan Rong |mingcan.rong@bristol.ac.uk|
+|Jiao(Jade) Zhou |jiao.zhou@bristol.ac.uk|
 
 
 
