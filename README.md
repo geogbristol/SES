@@ -38,7 +38,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 6 (Consolidation)    | 27/10/2025|  
 | 7    | 03/11/2025|      |TBC: [Alicia Hayashi Lazzarini](https://experts.exeter.ac.uk/40770-alicia-hayashi-lazzarini)   |
 | 8    | 10/11/2025|
-| 9   | 17/11/2025 (QuSES seminar)||*Peer review session:* Two researchers to provide feedback on [Qiujie Shi's](https://research-information.bris.ac.uk/en/persons/qiujie-shi) paper or chapter TBC||
+| 9   | 17/11/2025 ||||
 | 10   | 24/11/2025 (QuSES seminar)||[Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)||
 | 11   | 01/12/2025|      |
 | 12 | 08/12/2025|    | PGR session: Yechun Lin & Hubin Wei |
