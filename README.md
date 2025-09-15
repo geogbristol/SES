@@ -37,7 +37,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 5    | 20/10/2025 |      |[David Jackman](https://www.qeh.ox.ac.uk/people/david-jackman), [Syndicates and Societies: Criminal Politics in Dhaka](https://www.cambridge.org/core/books/syndicates-and-societies/D27729AEAA04A054C7A9D8B5BA07052B)|| Y|
 | 6 (Consolidation)  | 27/10/2025|  
 | 7    | 03/11/2025|      |TBC: [Alicia Hayashi Lazzarini](https://experts.exeter.ac.uk/40770-alicia-hayashi-lazzarini)   |
-| 8    | 10/11/2025|      |Madison Lindeman, "You Need to Keep It to Yourself": Menstrual Stigma, Social Norms, and Management in Mbarara, Uganda |
+| 8    | 10/11/2025|      |[Madison Lindeman](https://research-information.bris.ac.uk/en/persons/madison-lindeman), "You Need to Keep It to Yourself": Menstrual Stigma, Social Norms, and Management in Mbarara, Uganda |
 | 9   | 17/11/2025 |      |||
 | 10   | 24/11/2025||*SES x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)||
 | 11   | 01/12/2025 *(Note this is on Thursday)*|  |*SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana) (The University of Manchester), [Decolonising Green Restoration: Indigenous Knowledge and Epistemic Justice in Nature-Based Solutions – A Case from the Bengal Delta](https://www.sciencedirect.com/science/article/pii/S0962629825001374)      |
