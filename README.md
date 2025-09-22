@@ -31,18 +31,18 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | AY week | w/b  | Room             | Speaker | SES Social event | Calendar created? |
 |------|-------|------------------|---------|-------------------| --------------- |
 | 1    | 22/09/2025 *(Note this is on Wednesday afternoon)* | Common room & SR2     |   |Welcoming (back) to the SES research group: Cakes, coffees, and chats| Y|
-| 2    | 29/09/2025 |      |[Sue Parnell](http://bristol.ac.uk/people/person/Susan-Parnell-dc8f815c-7ddb-42e0-b7af-5f74b7c5c3af/), [Cities rethought](https://www.politybooks.com/bookdetail?book_slug=cities-rethought-a-new-urban-disposition--9781509565603) || Y|
-| 3    | 06/10/2025 |      |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/), The relational village|| Y|
-| 4    | 13/10/2025 |      |    |
-| 5    | 20/10/2025 |      |[David Jackman](https://www.qeh.ox.ac.uk/people/david-jackman), [Syndicates and Societies: Criminal Politics in Dhaka](https://www.cambridge.org/core/books/syndicates-and-societies/D27729AEAA04A054C7A9D8B5BA07052B)|| Y|
-| 6 (Consolidation)  | 27/10/2025|  
-| 7    | 03/11/2025|      |TBC: [Alicia Hayashi Lazzarini](https://experts.exeter.ac.uk/40770-alicia-hayashi-lazzarini)   |
-| 8    | 10/11/2025|      |[Madison Lindeman](https://research-information.bris.ac.uk/en/persons/madison-lindeman), "You Need to Keep It to Yourself": Menstrual Stigma, Social Norms, and Management in Mbarara, Uganda |
-| 9   | 17/11/2025 |      |||
-| 10   | 24/11/2025||*SES x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)||
+| 2    | 29/09/2025 |FRY G.16      |[Sue Parnell](http://bristol.ac.uk/people/person/Susan-Parnell-dc8f815c-7ddb-42e0-b7af-5f74b7c5c3af/), [Cities rethought](https://www.politybooks.com/bookdetail?book_slug=cities-rethought-a-new-urban-disposition--9781509565603) || Y|
+| 3    | 06/10/2025 |FRY G.16      |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/), The relational village|| Y|
+| 4    | 13/10/2025 |FRY G.16      |    |
+| 5    | 20/10/2025 |FRY G.16      |[David Jackman](https://www.qeh.ox.ac.uk/people/david-jackman), [Syndicates and Societies: Criminal Politics in Dhaka](https://www.cambridge.org/core/books/syndicates-and-societies/D27729AEAA04A054C7A9D8B5BA07052B)|| Y|
+| 6 (Consolidation)  | 27/10/2025|  FRY G.16|
+| 7    | 03/11/2025|FRY G.16      |TBC: [Alicia Hayashi Lazzarini](https://experts.exeter.ac.uk/40770-alicia-hayashi-lazzarini)   |
+| 8    | 10/11/2025|FRY G.16      |[Madison Lindeman](https://research-information.bris.ac.uk/en/persons/madison-lindeman), "You Need to Keep It to Yourself": Menstrual Stigma, Social Norms, and Management in Mbarara, Uganda |
+| 9   | 17/11/2025 |FRY G.16      |||
+| 10   | 24/11/2025|FRY G.16|*SES x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)||
 | 11   | 01/12/2025 *(Note this is on Thursday)*|  |*SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana) (The University of Manchester), [Decolonising Green Restoration: Indigenous Knowledge and Epistemic Justice in Nature-Based Solutions – A Case from the Bengal Delta](https://www.sciencedirect.com/science/article/pii/S0962629825001374)      |
-| 12 | 08/12/2025|    | PGR session: Yechun Lin & Hubin Wei |
-| TB1 AP | 15/12/2025 |      |TBC: [Kah Wee Lee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/)   |
+| 12 | 08/12/2025|FRY G.16    | PGR session: Yechun Lin & Hubin Wei |
+| TB1 AP | 15/12/2025 |FRY G.16      |TBC: [Kah Wee Lee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/)   |
 | Winter holidays | 22/12/2025 |    
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
