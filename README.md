@@ -47,7 +47,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
 | TB2 PW | 12/01/2026|
-| 13  | 19/01/2026 |
+| 13  | 19/01/2026 |    | Chris Bean |
 | 14  | 26/01/2026 |
 | 15  | 02/02/2026 |
 | 16  | 09/02/2026 |
