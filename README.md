@@ -47,23 +47,23 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
 | TB2 PW | 12/01/2026|
-| 13  | 19/01/2026 |    |[Chris Bean](https://storymaps.arcgis.com/stories/761e3303e39b43ff954a520c55001ec3) |
-| 14  | 26/01/2026 |
-| 15  | 02/02/2026 |
-| 16  | 09/02/2026 |
-| 17  | 16/02/2026 |
-| 18  | 23/02/2026 |
-| 19  | 02/03/2026 |
-| 20  | 09/03/2026 |
-| 21  | 16/03/2026|
+| 13  | 19/01/2026 |FRY G.16    |[Chris Bean](https://storymaps.arcgis.com/stories/761e3303e39b43ff954a520c55001ec3) |
+| 14  | 26/01/2026 |FRY G.16    |
+| 15  | 02/02/2026 |FRY G.16    |
+| 16  | 09/02/2026 |FRY G.16    |
+| 17  | 16/02/2026 |FRY G.16    |
+| 18  | 23/02/2026 |FRY G.16    |
+| 19  | 02/03/2026 |FRY G.16    |
+| 20  | 09/03/2026 |FRY G.16    |
+| 21  | 16/03/2026|FRY G.16    |
 | Spring vacation | 23/03/2026 | 
 | Spring vacation | 30/03/2026 |
 | Spring vacation | 06/04/2026 | 
-| 22 | 13/04/2026 | 
-| 23 | 20/04/2026 | 
-| 24 | 27/04/2026 | 
-| TB2 AP          | 04/05/2026 | 
-| TB2 AP          | 11/05/2026 | 
-| TB2 AP          | 18/05/2026 | 
-| SV        | 25/05/2026 |      |[Andrea Pollio](https://www.polito.it/personale?p=andrea.pollio), [Silicon Elsewhere: Nairobi, Global China, and the Promise of Techno-Capital](https://www.ucpress.edu/books/silicon-elsewhere/paper)| 
-| SV        | 01/06/2026 |
+| 22 | 13/04/2026 | FRY G.16    |
+| 23 | 20/04/2026 | FRY G.16    |
+| 24 | 27/04/2026 | FRY G.16    |
+| TB2 AP          | 04/05/2026 | FRY G.16    |
+| TB2 AP          | 11/05/2026 | FRY G.16    |
+| TB2 AP          | 18/05/2026 | FRY G.16    |
+| SV        | 25/05/2026 |FRY G.16      |[Andrea Pollio](https://www.polito.it/personale?p=andrea.pollio), [Silicon Elsewhere: Nairobi, Global China, and the Promise of Techno-Capital](https://www.ucpress.edu/books/silicon-elsewhere/paper)| 
+| SV        | 01/06/2026 |FRY G.16    |
