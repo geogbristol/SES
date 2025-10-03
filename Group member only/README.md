@@ -21,6 +21,12 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 |[Jaskiran Kaur Chohan](https://www.bristol.ac.uk/people/person/Jaskiran%20Kaur-Chohan-96afad23-ec76-41ad-bb2f-3c5e0892adac/) |j.chohan@bristol.ac.uk|
 |[Rui Zhu](https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/)  |rui.zhu@bristol.ac.uk|
 
+## Group postdoctorial researchers emails
+| **Name**            | **Email**       | 
+|---------------------|-----------------|
+|Livia Perosino  |livia.perosino@bristol.ac.uk|
+|Jennifer C. Langill |jennifer.langill@bristol.ac.uk|
+
 ## Group PGR emails
 | **Name**            | **Email**       | 
 |---------------------|-----------------|
