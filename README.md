@@ -42,7 +42,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 10   | 24/11/2025|FRY G.06|*SES x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)||
 | 11   | 01/12/2025 *(specific date TBD)*|  |*SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana) (The University of Manchester), [Decolonising Green Restoration: Indigenous Knowledge and Epistemic Justice in Nature-Based Solutions – A Case from the Bengal Delta](https://www.sciencedirect.com/science/article/pii/S0962629825001374)      |
 | 12 | 08/12/2025|FRY G.06    | PGR session: Yechun Lin & Hubin Wei |
-| TB1 AP | 15/12/2025 |FRY G.06      |TBC: [Kah Wee Lee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/)   |
+| TB1 AP | 15/12/2025 *(Note this is 12.00-13.30)* |FRY 2.41      |TBC: [Kah Wee Lee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/)   |
 | Winter holidays | 22/12/2025 |    
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
