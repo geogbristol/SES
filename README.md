@@ -52,7 +52,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 15  | 02/02/2026 |FRY G.16    |
 | 16  | 09/02/2026 |FRY G.16    |
 | 17  | 16/02/2026 |FRY G.16    |
-| 18  | 23/02/2026 |FRY G.16    |
+| 18 (Consolidation)  | 23/02/2026 *(Note this is on Thursday afternoon)* |GEOG BLDG G.1S HEPPLE    |*SES x WF seminar:* [Elena Baglioni](https://www.qmul.ac.uk/sbm/staff/academic/profiles/baglionie.html) |
 | 19  | 02/03/2026 |FRY G.16    |
 | 20  | 09/03/2026 |FRY G.16    |
 | 21  | 16/03/2026|FRY G.16    |
