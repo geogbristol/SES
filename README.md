@@ -36,8 +36,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 4    | 13/10/2025 |FRY G.06      |CANCALLED    |
 | 5    | 20/10/2025 |FRY G.06      |[David Jackman](https://www.qeh.ox.ac.uk/people/david-jackman), [Syndicates and Societies: Criminal Politics in Dhaka](https://www.cambridge.org/core/books/syndicates-and-societies/D27729AEAA04A054C7A9D8B5BA07052B)|| Y|
 | 6 (Consolidation)  | 27/10/2025|  FRY G.06|
-| 7    | 03/11/2025|FRY G.06      |TBC: [Alicia Hayashi Lazzarini](https://experts.exeter.ac.uk/40770-alicia-hayashi-lazzarini)   |
-| 8    | 10/11/2025|FRY G.06      |[Madison Lindeman](https://research-information.bris.ac.uk/en/persons/madison-lindeman), "You Need to Keep It to Yourself": Menstrual Stigma, Social Norms, and Management in Mbarara, Uganda |
+| 7    | 03/11/2025|FRY G.06      |TBC: [Alicia Hayashi Lazzarini](https://experts.exeter.ac.uk/40770-alicia-hayashi-lazzarini)|| Y|
+| 8    | 10/11/2025|FRY G.06      |[Madison Lindeman](https://research-information.bris.ac.uk/en/persons/madison-lindeman), "You Need to Keep It to Yourself": Menstrual Stigma, Social Norms, and Management in Mbarara, Uganda|| Y|
 | 9   | 17/11/2025 |FRY G.06      | PGR session: Hubin Wei, Navigating the Post-Demolition Policy Challenge: Ecological Orientation and Land Use Transition of Urban Villages in Metropolitan China & [Chris Bean](https://storymaps.arcgis.com/stories/761e3303e39b43ff954a520c55001ec3)||
 | 10   | 24/11/2025|FRY G.06|CANCELLED||
 | 11   | 01/12/2025|FRY G.06|    |
