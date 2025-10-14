@@ -41,13 +41,13 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 9   | 17/11/2025 |FRY G.06      | PGR session: Hubin Wei, Navigating the Post-Demolition Policy Challenge: Ecological Orientation and Land Use Transition of Urban Villages in Metropolitan China & [Chris Bean](https://storymaps.arcgis.com/stories/761e3303e39b43ff954a520c55001ec3)||
 | 10   | 24/11/2025|FRY G.06|CANCELLED||
 | 11   | 01/12/2025|FRY G.06|    |
-| 12 | 08/12/2025|FRY G.06    |TBC: *SES x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   |
+| 12 | 08/12/2025|FRY G.06    |
 | TB1 AP | 15/12/2025 *(Note this is 12.00-13.30)* |FRY 2.41      |TBC: [Kah Wee Lee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/)   |
 | Winter holidays | 22/12/2025 |    
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
 | TB2 PW | 12/01/2026|
-| 13  | 19/01/2026 |FRY G.16    | |
+| 13  | 19/01/2026 |FRY G.16    |*SES x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   |
 | 14  | 26/01/2026 |FRY G.16    |
 | 15  | 02/02/2026 |FRY G.16    |
 | 16  | 09/02/2026 |FRY G.16    |
