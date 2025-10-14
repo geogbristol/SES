@@ -58,8 +58,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 21  | 16/03/2026|FRY G.16    |
 | Spring vacation | 23/03/2026 | 
 | Spring vacation | 30/03/2026 |
-| Spring vacation | 06/04/2026 | 
-| 22 | 13/04/2026 | FRY G.16    |
+| Spring vacation | 06/04/2026 |
+| 22 | 13/04/2026 | FRY G.16    |TBC: [Alejandro De Coss Corzo](https://www.research.ed.ac.uk/en/persons/alejandro-de-coss-corzo)|
 | 23 | 20/04/2026 | FRY G.16    |
 | 24 | 27/04/2026 | FRY G.16    |
 | TB2 AP          | 04/05/2026 | FRY G.16    |
