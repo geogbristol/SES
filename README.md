@@ -54,7 +54,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 17  | 16/02/2026 |FRY G.16    |
 | 18 (Consolidation)  | 23/02/2026 *(Note this is on Thursday)* |FRY G.09    |*SES x WF seminar:* [Elena Baglioni](https://www.qmul.ac.uk/sbm/staff/academic/profiles/baglionie.html) |
 | 19  | 02/03/2026 |FRY G.16    |
-| 20  | 09/03/2026 |FRY G.16  *(Note this is on Thursday)*   |FRY G.09    |[Tanya Zack](https://tanya-zack.super.site/), [The Chaos Precinct](https://booklounge.co.za/product/the-chaos-precinct/) |
+| 20  | 09/03/2026 *(Note this is on Thursday)*|FRY G.09    |[Tanya Zack](https://tanya-zack.super.site/), [The Chaos Precinct](https://booklounge.co.za/product/the-chaos-precinct/) |
 | 21  | 16/03/2026|FRY G.16    |
 | Spring vacation | 23/03/2026 | 
 | Spring vacation | 30/03/2026 |
