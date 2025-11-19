@@ -59,7 +59,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Spring vacation | 23/03/2026 | 
 | Spring vacation | 30/03/2026 |
 | Spring vacation | 06/04/2026 |
-| 22 | 13/04/2026 | FRY G.16    |TBC: [Alejandro De Coss Corzo](https://www.research.ed.ac.uk/en/persons/alejandro-de-coss-corzo)|
+| 22 | 13/04/2026 | FRY G.16    |[Alejandro De Coss Corzo](https://www.research.ed.ac.uk/en/persons/alejandro-de-coss-corzo)|
 | 23 | 20/04/2026 | FRY G.16    |
 | 24 | 27/04/2026 | FRY G.16    |[Julie MacLeavy](https://www.bristol.ac.uk/people/person/Julie-MacLeavy-be768aa8-6763-4913-a366-0adf4edaf5d1/): Seaside towns & Remote work|
 | TB2 AP          | 04/05/2026  *(Note this is on Wednesday)* |    |TBC: *SES x PE PGR workshop / forum:*|
