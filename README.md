@@ -51,7 +51,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 14  | 26/01/2026 |FRY G.16    |TBC: *SES x QuSS seminar:* Mehebub |
 | 15  | 02/02/2026 |FRY G.16    |[Beca Phillips](https://research-information.bris.ac.uk/en/persons/beca-l-phillips/): [Size matters? Reviewing largeness and affirming smallness in urban research spatial imaginaries](https://journals.sagepub.com/doi/10.1177/03091325251386152)|
 | 16  | 09/02/2026 |FRY G.16    |
-| 17  | 16/02/2026 |FRY G.16    |[Ola Michalec](https://www.bristol.ac.uk/people/person/Ola-Michalec-71ecc9a4-46cc-44f7-b382-ab767d7dc1c5/): Cyber security innovation as economic statecraft|
+| 17  | 16/02/2026 |FRY G.16    |TBC: [Ola Michalec](https://www.bristol.ac.uk/people/person/Ola-Michalec-71ecc9a4-46cc-44f7-b382-ab767d7dc1c5/): Cyber security innovation as economic statecraft|
 | 18 (Consolidation)  | 23/02/2026 *(Note this is on Thursday)* |FRY G.09    |*SES x WF seminar:* [Elena Baglioni](https://www.qmul.ac.uk/sbm/staff/academic/profiles/baglionie.html) |
 | 19  | 02/03/2026 |FRY G.16    |[Philip Mader](https://www.ids.ac.uk/people/philip-mader/)|
 | 20  | 09/03/2026 *(Note this is on Thursday)*|FRY G.09    |[Tanya Zack](https://tanya-zack.super.site/), [The Chaos Precinct](https://booklounge.co.za/product/the-chaos-precinct/) |
