@@ -47,7 +47,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
 | TB2 PW | 12/01/2026|
-| 13  | 19/01/2026 |FRY G.16    |TBC: *SES x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   |
+| 13  | 19/01/2026 *(Note this is on Wednesday)* |   |TBC: *SES x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   |
 | 14  | 26/01/2026 |FRY G.16    |TBC: *SES x QuSS seminar:* Mehebub |
 | 15  | 02/02/2026 |FRY G.16    |[Beca Phillips](https://research-information.bris.ac.uk/en/persons/beca-l-phillips/): [Size matters? Reviewing largeness and affirming smallness in urban research spatial imaginaries](https://journals.sagepub.com/doi/10.1177/03091325251386152)|
 | 16  | 09/02/2026 |FRY G.16    |
