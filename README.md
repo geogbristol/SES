@@ -33,16 +33,16 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 1    | 22/09/2025 *(Note this is on Wednesday afternoon)* | Common room & SR2     |   |Welcoming (back) to the SES research group: Cakes, coffees, and chats| Y|
 | 2    | 29/09/2025 |FRY G.06      |[Sue Parnell](http://bristol.ac.uk/people/person/Susan-Parnell-dc8f815c-7ddb-42e0-b7af-5f74b7c5c3af/), [Cities rethought](https://www.politybooks.com/bookdetail?book_slug=cities-rethought-a-new-urban-disposition--9781509565603) || Y|
 | 3    | 06/10/2025 |FRY G.06      |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/), The relational village|| Y|
-| 4    | 13/10/2025 |FRY G.06      |CANCALLED    |
+| 4    | 13/10/2025 |FRY G.06      |    |
 | 5    | 20/10/2025 |FRY G.06      |[David Jackman](https://www.qeh.ox.ac.uk/people/david-jackman), [Syndicates and Societies: Criminal Politics in Dhaka](https://www.cambridge.org/core/books/syndicates-and-societies/D27729AEAA04A054C7A9D8B5BA07052B)|| Y|
 | 6 (Consolidation)  | 27/10/2025|  FRY G.06|
-| 7    | 03/11/2025|FRY G.06      |TBC: [Alicia Hayashi Lazzarini](https://experts.exeter.ac.uk/40770-alicia-hayashi-lazzarini): Racial Capitalism and Aesthetic Ambivalence: Chinese Investment in Africa|| Y|
+| 7    | 03/11/2025|FRY G.06      |[Alicia Hayashi Lazzarini](https://experts.exeter.ac.uk/40770-alicia-hayashi-lazzarini): Racial Capitalism and Aesthetic Ambivalence: Chinese Investment in Africa|| Y|
 | 8    | 10/11/2025|FRY G.06      |[Madison Lindeman](https://research-information.bris.ac.uk/en/persons/madison-lindeman), "You Need to Keep It to Yourself": Menstrual Stigma, Social Norms, and Management in Mbarara, Uganda|| Y|
-| 9   | 17/11/2025 |FRY G.06      | PGR session: Hubin Wei, Navigating the Post-Demolition Policy Challenge: Ecological Orientation and Land Use Transition of Urban Villages in Metropolitan China & [Chris Bean](https://storymaps.arcgis.com/stories/761e3303e39b43ff954a520c55001ec3): Chronic flood vulnerability of the world’s cities|| Y|
-| 10   | 24/11/2025|FRY G.06|CANCELLED||
+| 9   | 17/11/2025 |FRY G.06      |PGR session: Hubin Wei, Navigating the Post-Demolition Policy Challenge: Ecological Orientation and Land Use Transition of Urban Villages in Metropolitan China & [Chris Bean](https://storymaps.arcgis.com/stories/761e3303e39b43ff954a520c55001ec3): Chronic flood vulnerability of the world’s cities|| Y|
+| 10   | 24/11/2025|FRY G.06|||
 | 11   | 01/12/2025|FRY G.06|    |
 | 12 | 08/12/2025|FRY G.06    |
-| TB1 AP | 15/12/2025 *(Note this is 12.00-13.30)* |FRY 2.41      |~~CANCALLED: [Kah Wee Lee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/)~~   |
+| TB1 AP | 15/12/2025 |FRY 2.41      |~~CANCALLED: [Kah Wee Lee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/)~~   |
 | Winter holidays | 22/12/2025 |    
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
