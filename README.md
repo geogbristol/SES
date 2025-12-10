@@ -60,7 +60,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Spring vacation | 30/03/2026 |
 | Spring vacation | 06/04/2026 |
 | 22 | 13/04/2026 | FRY G.16    |[Alejandro De Coss Corzo](https://www.research.ed.ac.uk/en/persons/alejandro-de-coss-corzo)|
-| 23 | 20/04/2026 | FRY G.16    |[Antonella Mazzone](https://research-information.bris.ac.uk/en/persons/antonella-mazzone/)|
+| 23 | 20/04/2026 | FRY G.16    |[Antonella Mazzone](https://research-information.bris.ac.uk/en/persons/antonella-mazzone/): Queering Thermal Comfort: Transgender Geographies of Heat Adaptation in Rio de Janeiro|
 | 24 | 27/04/2026 | FRY G.16    |[Julie MacLeavy](https://www.bristol.ac.uk/people/person/Julie-MacLeavy-be768aa8-6763-4913-a366-0adf4edaf5d1/): Seaside towns & Remote work|
 | TB2 AP          | 04/05/2026  *(Note this is on Wednesday)* |    |TBC: *SES x PE PGR workshop / forum:*|
 | TB2 AP          | 11/05/2026 | FRY G.16    |TBC: PGR session: Pelumi Botti|
