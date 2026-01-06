@@ -55,15 +55,15 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 18 (Consolidation)  | 23/02/2026 *(Note this is on Thursday)* |FRY G.09    |*SES x WF seminar:* [Elena Baglioni](https://www.qmul.ac.uk/sbm/staff/academic/profiles/baglionie.html) |
 | 19  | 02/03/2026 |SR2    |[Philip Mader](https://www.ids.ac.uk/people/philip-mader/)|
 | 20  | 09/03/2026 *(Note this is on Thursday)*|FRY G.09    |[Tanya Zack](https://tanya-zack.super.site/), [The Chaos Precinct](https://booklounge.co.za/product/the-chaos-precinct/) |
-| 21  | 16/03/2026|FRY G.16    |
+| 21  | 16/03/2026|FRY G.06    |
 | Spring vacation | 23/03/2026 | 
 | Spring vacation | 30/03/2026 |
 | Spring vacation | 06/04/2026 |
-| 22 | 13/04/2026 | FRY G.16    |[Alejandro De Coss Corzo](https://www.research.ed.ac.uk/en/persons/alejandro-de-coss-corzo)|
-| 23 | 20/04/2026 | FRY G.16    |[Antonella Mazzone](https://research-information.bris.ac.uk/en/persons/antonella-mazzone/): Queering Thermal Comfort: Transgender Geographies of Heat Adaptation in Rio de Janeiro|
-| 24 | 27/04/2026 | FRY G.16    |[Julie MacLeavy](https://www.bristol.ac.uk/people/person/Julie-MacLeavy-be768aa8-6763-4913-a366-0adf4edaf5d1/): Seaside towns & Remote work|
+| 22 | 13/04/2026 |FRY G.06   |[Alejandro De Coss Corzo](https://www.research.ed.ac.uk/en/persons/alejandro-de-coss-corzo)|
+| 23 | 20/04/2026 |FRY G.06    |[Antonella Mazzone](https://research-information.bris.ac.uk/en/persons/antonella-mazzone/): Queering Thermal Comfort: Transgender Geographies of Heat Adaptation in Rio de Janeiro|
+| 24 | 27/04/2026 |FRY G.06    |[Julie MacLeavy](https://www.bristol.ac.uk/people/person/Julie-MacLeavy-be768aa8-6763-4913-a366-0adf4edaf5d1/): Seaside towns & Remote work|
 | TB2 AP          | 04/05/2026  *(Note this is on Wednesday)* |    |TBC: *SES x PE PGR workshop / forum:*|
-| TB2 AP          | 11/05/2026 | FRY G.16    |TBC: PGR session: Pelumi Botti|
-| TB2 AP          | 18/05/2026 | FRY G.16    |TBC: PGR showcase event|
-| SV        | 25/05/2026 |FRY G.16      |TBC: [Andrea Pollio](https://www.polito.it/personale?p=andrea.pollio), [Silicon Elsewhere: Nairobi, Global China, and the Promise of Techno-Capital](https://www.ucpress.edu/books/silicon-elsewhere/paper)| 
+| TB2 AP          | 11/05/2026 | FRY 2.41    |TBC: PGR session: Pelumi Botti|
+| TB2 AP          | 18/05/2026 | FRY G.06    |TBC: PGR showcase event|
+| SV        | 25/05/2026 |FRY 2.41      |TBC: [Andrea Pollio](https://www.polito.it/personale?p=andrea.pollio), [Silicon Elsewhere: Nairobi, Global China, and the Promise of Techno-Capital](https://www.ucpress.edu/books/silicon-elsewhere/paper)| 
 | SV        | 01/06/2026 |FRY G.16    |TBC: SES Away Day |
