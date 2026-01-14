@@ -54,7 +54,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 17  | 16/02/2026 |FRY G.16    |[Ola Michalec](https://www.bristol.ac.uk/people/person/Ola-Michalec-71ecc9a4-46cc-44f7-b382-ab767d7dc1c5/): Cyber security innovation as economic statecraft|| Y|
 | 18 (Consolidation)  | 23/02/2026 *(Note this is on Thursday)* |FRY G.09    |*SES x WF seminar:* [Elena Baglioni](https://www.qmul.ac.uk/sbm/staff/academic/profiles/baglionie.html): Labour regimes, ecology and social reproduction|| Y|
 | 19  | 02/03/2026 |SR2    |[Philip Mader](https://www.ids.ac.uk/people/philip-mader/)|
-| 20  | 09/03/2026 *(Note this is on Thursday)*|FRY G.09    |***SES** x HC seminar:*[Tanya Zack](https://tanya-zack.super.site/), [The Chaos Precinct](https://booklounge.co.za/product/the-chaos-precinct/) || Y|
+| 20  | 09/03/2026 *(Note this is on Thursday)*|FRY G.09    |***SES** x HC seminar:* [Tanya Zack](https://tanya-zack.super.site/), [The Chaos Precinct](https://booklounge.co.za/product/the-chaos-precinct/) || Y|
 | 21  | 16/03/2026 *(Note this is on Wednesday 12.00-13.00)* |FRY G.06    |***SES** x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   |
 | Spring vacation | 23/03/2026 | 
 | Spring vacation | 30/03/2026 |
