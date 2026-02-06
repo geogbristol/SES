@@ -64,6 +64,6 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 24 | 27/04/2026 |FRY G.06    |[Julie MacLeavy](https://www.bristol.ac.uk/people/person/Julie-MacLeavy-be768aa8-6763-4913-a366-0adf4edaf5d1/): Seaside towns & Remote work|
 | TB2 AP          | 04/05/2026  *(Note this is on Wednesday)* |    |TBC: *SES x PE PGR workshop / forum:*|
 | TB2 AP          | 11/05/2026 | FRY 2.41    |TBC: PGR session: Pelumi Botti|
-| TB2 AP          | 18/05/2026  *(Note this is on Thursday)*|FRY 2.41     |TBC: *SES x PFRC seminar*: [Paul Griffin](https://www.northumbria.ac.uk/about-us/our-staff/g/paul-griffin/)|
+| TB2 AP          | 18/05/2026  *(Note this is on Thursday)*|FRY 2.41     |*SES x PFRC seminar*: [Paul Griffin](https://www.northumbria.ac.uk/about-us/our-staff/g/paul-griffin/)|
 | SV        | 25/05/2026 |FRY 2.41      |TBC: [Andrea Pollio](https://www.polito.it/personale?p=andrea.pollio), [Silicon Elsewhere: Nairobi, Global China, and the Promise of Techno-Capital](https://www.ucpress.edu/books/silicon-elsewhere/paper)| 
 | SV        | 01/06/2026 |FRY G.16    |TBC: SES Away Day |
