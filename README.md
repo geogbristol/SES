@@ -66,4 +66,4 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | TB2 AP          | 11/05/2026 | FRY 2.41    |TBC: PGR session: Pelumi Botti|
 | TB2 AP          | 18/05/2026  *(Note this is on Thursday)*|FRY 2.41     |***SES** x PFRC seminar*: [Paul Griffin](https://www.northumbria.ac.uk/about-us/our-staff/g/paul-griffin/)|
 | SV        | 25/05/2026 |FRY 2.41      |TBC: [Andrea Pollio](https://www.polito.it/personale?p=andrea.pollio), [Silicon Elsewhere: Nairobi, Global China, and the Promise of Techno-Capital](https://www.ucpress.edu/books/silicon-elsewhere/paper)| 
-| SV        | 01/06/2026 *(Note this is on Monday)*|    |*SES x WF seminar:*[Michael Goldman](https://cla.umn.edu/about/directory/profile/mgoldman),[Hidden Empire of Finance](https://dukeupress.edu/hidden-empire-of-finance) |
+| SV        | 01/06/2026 *(Note this is on Monday)*|    |TBC: *SES x WF seminar:* [Michael Goldman](https://cla.umn.edu/about/directory/profile/mgoldman), [Hidden Empire of Finance](https://dukeupress.edu/hidden-empire-of-finance) |
