@@ -65,5 +65,5 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | TB2 AP          | 04/05/2026  *(Note this is on Wednesday 14.00-16.30)* |Wills Memorial Building 5.69    |*SES x PE PGR workshop / forum:*|
 | TB2 AP          | 11/05/2026 | FRY 2.41    |TBC: PGR session: Pelumi Botti|
 | TB2 AP          | 18/05/2026  *(Note this is on Thursday)*|FRY 2.41     |***SES** x PFRC seminar*: [Paul Griffin](https://www.northumbria.ac.uk/about-us/our-staff/g/paul-griffin/)|
-| SV        | 25/05/2026 |FRY 2.41      |TBC: Leonardo Castro Gonzalez| 
+| SV        | 25/05/2026 |FRY 2.41      |[Leonardo Castro Gonzalez](https://leonardocastro.github.io/)| 
 | SV        | 01/06/2026 *(Note this is on Monday)*|    |TBC: *SES x WF seminar:* [Michael Goldman](https://cla.umn.edu/about/directory/profile/mgoldman), [Hidden Empire of Finance](https://dukeupress.edu/hidden-empire-of-finance) |
