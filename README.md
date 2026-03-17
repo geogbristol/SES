@@ -59,7 +59,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Spring vacation | 23/03/2026 | 
 | Spring vacation | 30/03/2026 |
 | Spring vacation | 06/04/2026 |
-| 22 | 13/04/2026 |FRY G.06   |[Alejandro De Coss Corzo](https://www.research.ed.ac.uk/en/persons/alejandro-de-coss-corzo):Repairing the City: Labour, Infrastructure, and the Future of Water in Mexico City|| Y|
+| 22 | 13/04/2026 |FRY G.06   |[Alejandro De Coss Corzo](https://www.research.ed.ac.uk/en/persons/alejandro-de-coss-corzo): Repairing the City: Labour, Infrastructure, and the Future of Water in Mexico City|| Y|
 | 23 | 20/04/2026 |FRY G.06    |[Antonella Mazzone](https://research-information.bris.ac.uk/en/persons/antonella-mazzone/): Queering Thermal Comfort: Transgender Geographies of Heat Adaptation in Rio de Janeiro|
 | 24 | 27/04/2026 |FRY G.06    |[Julie MacLeavy](https://www.bristol.ac.uk/people/person/Julie-MacLeavy-be768aa8-6763-4913-a366-0adf4edaf5d1/): Seaside towns & Remote work|
 | TB2 AP          | 04/05/2026  *(Note this is on Wednesday 14.00-16.30)* |Wills Memorial Building 5.69    |*SES x PE PGR workshop / forum:*|
