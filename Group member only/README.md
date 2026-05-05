@@ -40,7 +40,6 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 |Zvikomborero Maziyanhanga |z.maziyanhanga@bristol.ac.uk|
 |Matt Robbins |matt.robbins@bristol.ac.uk|
 |Jennifer Weeks |jennifer.weeks@bristol.ac.uk|
-|Hubin Wei |hubin.wei@bristol.ac.uk|
 |Shize Zhang |shize.zhang@bristol.ac.uk|
 |Chris Lawer |tf24131@bristol.ac.uk|
 |Shiqi Li |oj25394@bristol.ac.uk|
