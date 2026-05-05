@@ -47,7 +47,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays | 29/01/2026 |    
 | Winter holidays | 05/01/2026 |
 | TB2 PW | 12/01/2026|
-| 13  | 19/01/2026 *(Note this is on Wednesday)* |FRY 2.41     |~~RESCHEDULED: ***SES** x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)~~|
+| 13  | 19/01/2026 *(Note this is on Wednesday)* |FRY 2.41     ||
 | 14  | 26/01/2026 *(Note this is 12.00-13.00)*|SR2  |*PE x SES x **QuSS** seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana), [Decolonising Green Restoration: Indigenous Knowledge and Epistemic Justice in Nature-Based Solutions in the Bengal Delta](https://www.sciencedirect.com/science/article/pii/S0962629825001374)|| Y|
 | 15  | 02/02/2026 |FRY G.16    |[Beca Phillips](https://research-information.bris.ac.uk/en/persons/beca-l-phillips/): [Size matters? Reviewing largeness and affirming smallness in urban research spatial imaginaries](https://journals.sagepub.com/doi/10.1177/03091325251386152)|| Y|
 | 16  | 09/02/2026 |SR2    |
@@ -62,11 +62,11 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 22 | 13/04/2026 |FRY G.06   |[Alejandro De Coss Corzo](https://www.research.ed.ac.uk/en/persons/alejandro-de-coss-corzo): Repairing the City: Labour, Infrastructure, and the Future of Water in Mexico City|| Y|
 | 23 | 20/04/2026 |FRY G.06    |~~**TO BE RESCHEDULED**: [Julie MacLeavy](https://www.bristol.ac.uk/people/person/Julie-MacLeavy-be768aa8-6763-4913-a366-0adf4edaf5d1/): Seaside towns & Remote work~~|| Y|
 | 24 | 27/04/2026 |FRY G.06    |[Antonella Mazzone](https://research-information.bris.ac.uk/en/persons/antonella-mazzone/): Queering Thermal Comfort: Transgender Geographies of Heat Adaptation in Rio de Janeiro|| Y|
-| TB2 AP          | 04/05/2026 |    |~~RESCHEDULED:*SES x PE PGR workshop / forum:*~~|
+| TB2 AP          | 04/05/2026 |    |~~**TO BE RESCHEDULED: *SES x PE PGR workshop / forum:***~~|
 | TB2 AP          | 11/05/2026 | FRY 2.41    |~~**TO BE RESCHEDULED**: Pelumi Botti~~|
 | TB2 AP          | 18/05/2026  *(Note this is on Thursday)*|FRY 2.41     |***SES** x PFRC seminar*: [Paul Griffin](https://www.northumbria.ac.uk/about-us/our-staff/g/paul-griffin/)|| Y|
 | SV        | 25/05/2026 *(Note this is on Tuesday)* |35 Berkerly Square      |*SES x WF writing retreat*|| Y| 
 | SV        | 25/05/2026 *(Note this is on Wednesday)* |FRY 2.41      |***SES** x QuSS seminar*: [Leonardo Castro Gonzalez](https://leonardocastro.github.io/)|| Y| 
 | SV        | 01/06/2026 *(Note this is on Monday, 16.00-17.15)*|FRY 2.41    |*SES x WF seminar:* [Michael Goldman](https://cla.umn.edu/about/directory/profile/mgoldman), [Hidden Empire of Finance](https://dukeupress.edu/hidden-empire-of-finance) |End of AY drink|Y|
-| SV        | 23/06/2026|    |Gambling seminar and workshop: [Lee Kah Wee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/) |||
+| SV        | 23/06/2026|    |TBD: Gambling seminar and workshop: [Lee Kah Wee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/) |||
 
