@@ -5,7 +5,7 @@ For group members, you can share your draft and/or make suggestions/comments on 
 
 To gain access to this project, please register a GitHub account and email [Qiujie](mailto:qiujie.shi@bristol.ac.uk) of your GitHub handle (i.e. name of your GitHub account).
 
-## Group academic staff emails
+## Group academic staff emails (2025/26)
 | **Name**            | **Email**       | 
 |---------------------|-----------------|		
 |[Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins)	|ed.atkins@bristol.ac.uk *(co-lead)*|		
