@@ -64,7 +64,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 24 | 27/04/2026 |FRY G.06    |[Antonella Mazzone](https://research-information.bris.ac.uk/en/persons/antonella-mazzone/): Queering Thermal Comfort: Transgender Geographies of Heat Adaptation in Rio de Janeiro|| Y|
 | TB2 AP          | 04/05/2026 |    |~~**TO BE RESCHEDULED: *SES x PE PGR workshop / forum:***~~|
 | TB2 AP          | 11/05/2026 | FRY 2.41    |~~**TO BE RESCHEDULED**: Pelumi Botti~~|
-| TB2 AP          | 18/05/2026  *(Note this is on Thursday)*|FRY 2.41     |***SES** x PFRC seminar*: [Paul Griffin](https://www.northumbria.ac.uk/about-us/our-staff/g/paul-griffin/)|| Y|
+| TB2 AP          | 18/05/2026  *(Note this is on Thursday)*|FRY 2.41     |***SES** x PFRC seminar*: [Paul Griffin](https://www.northumbria.ac.uk/about-us/our-staff/g/paul-griffin/): Building solidarity economies: tracing the historical geographies of UK credit unions|| Y|
 | SV        | 25/05/2026 *(Note this is on Tuesday)* |35 Berkerly Square      |*SES x WF writing retreat*|| Y| 
 | SV        | 25/05/2026 *(Note this is on Wednesday)* |FRY 2.41      |***SES** x QuSS seminar*: [Leonardo Castro Gonzalez](https://leonardocastro.github.io/)|| Y| 
 | SV        | 01/06/2026 *(Note this is on Monday, 16.00-17.15)*|FRY 2.41    |*SES x WF seminar:* [Michael Goldman](https://cla.umn.edu/about/directory/profile/mgoldman), [Hidden Empire of Finance](https://dukeupress.edu/hidden-empire-of-finance) |End of AY drink|Y|
