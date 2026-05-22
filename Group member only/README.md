@@ -36,19 +36,20 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 |Pelumi Botti |pelumi.botti@bristol.ac.uk|
 |Yechun Lin |yechun.lin@bristol.ac.uk|
 |Madison Lindeman |madison.lindeman@bristol.ac.uk|
-|Skylar Lindsay (graduated 2026)|skylar.lindsay@bristol.ac.uk|
 |Zvikomborero Maziyanhanga |z.maziyanhanga@bristol.ac.uk|
 |Matt Robbins |matt.robbins@bristol.ac.uk|
 |Jennifer Weeks |jennifer.weeks@bristol.ac.uk|
 |Shize Zhang |shize.zhang@bristol.ac.uk|
 |Chris Lawer |tf24131@bristol.ac.uk|
-|Shiqi Li (graduated 2026)|oj25394@bristol.ac.uk|
 |Sthembio Mize |sthembiso.mkhize@bristol.ac.uk|
 |Mingcan Rong |mingcan.rong@bristol.ac.uk|
 |Jiao(Jade) Zhou |jiao.zhou@bristol.ac.uk|
 |Weiyi Li |mm25581@bristol.ac.uk|
 |Emily Slater |cw25384@bristol.ac.uk|
 |Erin Rugland |e.rugland@bristol.ac.uk|
+|Skylar Lindsay (graduated 2026)|skylar.lindsay@bristol.ac.uk|
+|Shiqi Li (graduated 2026)|oj25394@bristol.ac.uk|
+
 
 
 
