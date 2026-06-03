@@ -68,4 +68,4 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | SV        | 25/05/2026 *(Note this is on Tuesday)* |35 Berkerly Square      |*SES x WF writing retreat*|| Y| 
 | SV        | 25/05/2026 *(Note this is on Wednesday)* |FRY 2.41      |***SES** x QuSS seminar*: [Leonardo Castro Gonzalez](https://leonardocastro.github.io/)|| Y| 
 | SV        | 01/06/2026 *(Note this is on Monday, 16.00-17.15)*|FRY 2.41    |*SES x WF seminar:* [Michael Goldman](https://cla.umn.edu/about/directory/profile/mgoldman), [Hidden Empire of Finance](https://dukeupress.edu/hidden-empire-of-finance) |End of AY drink|Y|
-| SV        | 22/06/2026 *(Note this is on Wednesday)*|FRY 2.41    |[Lee Kah Wee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/), The Free Shuttle Bus: infrastructures of extraction in three casino cities and some implications for "gambling harms"|| |
+| SV        | 22/06/2026 *(Note this is on Wednesday)*|FRY 2.41    |[Lee Kah Wee](https://cde.nus.edu.sg/arch/staffs/lee-kah-wee-dr/), The Free Shuttle Bus: infrastructures of extraction in three casino cities and some implications for "gambling harms"||Y |
