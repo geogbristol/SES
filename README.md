@@ -24,7 +24,7 @@ Bellow you can find schedule for this academic year.
 
 ## Suggestions, questions, and feedback
 
-If you have a suggestion for a speaker (including yourself!), or a discussion topic, or you just want to give us some feedback please email [Ed](mailto:ed.atkins@bristol.ac.uk) or [Qiujie](mailto:qiujie.shi@bristol.ac.uk).
+If you have a suggestion for a speaker (including yourself!), or a discussion topic, or you just want to give us some feedback please email [Joe](mailto:jg.williams@bristol.ac.uk) or [Qiujie](mailto:qiujie.shi@bristol.ac.uk).
 
 ## Schedule
 
