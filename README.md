@@ -30,4 +30,32 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 | AY week | w/b  | Room             | Speaker | SES Social event | Calendar created? |
 |------|-------|------------------|---------|-------------------| --------------- |
-| 1    | | Common room & SR2     |   |Welcoming (back) to the SES research group: Cakes, coffees, and chats| |
+| 1    |20/09/2026 | Common room & SR2     |   |Welcoming (back) to the SES research group: Cakes, coffees, and chats| |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
+| 2    | |      |   || |
