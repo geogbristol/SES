@@ -30,8 +30,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 | AY week | w/b  | Room             | Speaker | SES Social event | Calendar created? |
 |------|-------|------------------|---------|-------------------| --------------- |
-| 1    |21/09/2026 | Common room & SR2     |   |Welcoming (back) to the SES research group: Cakes, coffees, and chats| |
-| 2    |28/09/2026 |      |   || |
+| 1    |21/09/2026 |      |   |Welcoming (back) to the SES research group: Cakes, coffees, and chats| |
+| 2    |28/09/2026 | Common room & SR2     |   || |
 | 3    |05/10/2026 |      |   || |
 | 4    |12/10/2026 |      |   || |
 | 5    |19/10/2026 |      |   || |
