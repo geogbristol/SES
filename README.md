@@ -65,5 +65,3 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | TB2 AP    |03/05/2027 |      |   || |
 | TB2 AP    |10/05/2027 |      |   || |
 | TB2 AP    |17/05/2027 |      |   || |
-| 2    | |      |   || |
-| 2    | |      |   || |
