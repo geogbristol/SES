@@ -5,13 +5,13 @@ For group members, you can share your draft and/or make suggestions/comments on 
 
 To gain access to this project, please register a GitHub account and email [Qiujie](mailto:qiujie.shi@bristol.ac.uk) of your GitHub handle (i.e. name of your GitHub account).
 
-## Group academic staff emails (2025/26)
+## Group academic staff emails (2026/27)
 | **Name**            | **Email**       | 
 |---------------------|-----------------|		
-|[Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins)	|ed.atkins@bristol.ac.uk *(co-lead)*|		
+|[Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins)	|ed.atkins@bristol.ac.uk |		
 |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/)	|james.duminy@bristol.ac.uk|		
 |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/)	|jonathan.rigg@bristol.ac.uk|
-|[Joe Williams](https://www.bristol.ac.uk/people/person/Joe-Williams-751f7611-a95f-4b30-8b3e-90634ae56a74/)	|jg.williams@bristol.ac.uk	|		
+|[Joe Williams](https://www.bristol.ac.uk/people/person/Joe-Williams-751f7611-a95f-4b30-8b3e-90634ae56a74/)	|jg.williams@bristol.ac.uk	*(co-lead)*|		
 |[Julie MacLeavy](https://www.bristol.ac.uk/people/person/Julie-MacLeavy-be768aa8-6763-4913-a366-0adf4edaf5d1/)	|Julie.Macleavy@bristol.ac.uk|		
 |[Maria Fannin](https://www.bristol.ac.uk/people/person/Maria-Fannin-1c38a3b9-29c8-4ff4-89d6-325ba0e8f1a5/)	|M.Fannin@bristol.ac.uk|
 |[Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi)  |qiujie.shi@bristol.ac.uk *(co-lead)*|
@@ -39,7 +39,7 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 |Zvikomborero Maziyanhanga |z.maziyanhanga@bristol.ac.uk|
 |Matt Robbins |matt.robbins@bristol.ac.uk|
 |Jennifer Weeks |jennifer.weeks@bristol.ac.uk|
-|Shize Zhang |shize.zhang@bristol.ac.uk|
+|Shize Zhang (graduated 2026)|shize.zhang@bristol.ac.uk|
 |Chris Lawer |tf24131@bristol.ac.uk|
 |Sthembio Mize |sthembiso.mkhize@bristol.ac.uk|
 |Mingcan Rong |mingcan.rong@bristol.ac.uk|
@@ -48,7 +48,7 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 |Emily Slater |cw25384@bristol.ac.uk|
 |Erin Rugland |e.rugland@bristol.ac.uk|
 |Skylar Lindsay (graduated 2026)|skylar.lindsay@bristol.ac.uk|
-|Shiqi Li (graduated 2026)|oj25394@bristol.ac.uk|
+|Shiqi Li |oj25394@bristol.ac.uk|
 
 
 
