@@ -37,7 +37,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 5    |19/10/2026 |      |   || |
 | Consolidation week    |26/10/2026 |      |   || |
 | 7    |02/11/2026 |      |   || |
-| 8    |09/11/2026 |      |TBD: *PGR session*: Jade Zhou & Yimei Chen   || |
+| 8    |09/11/2026 |      |*PGR session*: Jade Zhou & Yimei Chen   || |
 | 9    |16/11/2026 |      |   || |
 | 10    |23/11/2026 |      |   || |
 | 11    |30/11/2026 |      |   || |
