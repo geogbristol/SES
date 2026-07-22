@@ -34,7 +34,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 2    |28/09/2026 |      |   || |
 | 3    |05/10/2026 |      |   || |
 | 4    |12/10/2026 |      |   || |
-| 5    |19/10/2026 |      |   || |
+| 5    |19/10/2026 |      |   |[Adam Packer](https://research.birmingham.ac.uk/en/persons/adam-michael-packer/)| |
 | Consolidation week    |26/10/2026 |      |TBC: Julie MacLeavy   || |
 | 7    |02/11/2026 |      |   || |
 | 8    |09/11/2026 |      |*PGR session*: Jade Zhou & Yimei Chen   || |
