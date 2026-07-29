@@ -36,7 +36,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 4    |12/10/2026 |      |   || |
 | 5    |19/10/2026 |      |[Adam Packer](https://research.birmingham.ac.uk/en/persons/adam-michael-packer/): Flight governance   || |
 | Consolidation week    |26/10/2026 |      |TBC: Julie MacLeavy   || |
-| 7    |02/11/2026 |      |*SES*SAGE session*: [Davide Luca](https://www.landecon.cam.ac.uk/directory/davide-luca)   || |
+| 7    |02/11/2026 |      |*SES x SAGE session*: [Davide Luca](https://www.landecon.cam.ac.uk/directory/davide-luca)   || |
 | 8    |09/11/2026 |      |*PGR session*: Jade Zhou & Yimei Chen   || |
 | 9    |16/11/2026 |      |TBC: [Prince Guma](https://www.polis.cam.ac.uk/people/prince-guma)   || |
 | 10    |23/11/2026 |      |   || |
