@@ -39,7 +39,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Consolidation week    |26/10/2026 *(Note this is on Wednesday)* |      |TBC: *SES x WF session*: [Tanya Matthan](https://www.lse.ac.uk/people/tanya-matthan)    || |
 | 7    |02/11/2026 |      |*SES x SAGE session*: [Davide Luca](https://www.landecon.cam.ac.uk/directory/davide-luca)   || |
 | 8    |09/11/2026 |      |*PGR session*: Jade Zhou & Yimei Chen   || |
-| 9    |16/11/2026 |      |TBC: [Prince Guma](https://www.polis.cam.ac.uk/people/prince-guma)   || |
+| 9    |16/11/2026 |      |*SES x PE session*: TBC: [Prince Guma](https://www.polis.cam.ac.uk/people/prince-guma)   || |
 | 10    |23/11/2026 |      |   || |
 | 11    |30/11/2026 |      |   || |
 | 12    |07/12/2026 |      |   || |
