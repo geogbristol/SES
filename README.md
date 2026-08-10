@@ -40,7 +40,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 7    |02/11/2026 |      |*SES x SAGE session*: [Davide Luca](https://www.landecon.cam.ac.uk/directory/davide-luca)   || |
 | 8    |09/11/2026 |      |*PGR session*: Jade Zhou & Yimei Chen   || |
 | 9    |16/11/2026 |      |*SES x PE session*: TBC: [Prince Guma](https://www.polis.cam.ac.uk/people/prince-guma)   || |
-| 10    |23/11/2026 |      |   || |
+| 10    |23/11/2026  *(Note this is on Wednesday)*|      |*+Lab x SES session*: TBC: [Gregory Randolph](https://planning.gatech.edu/people/gregory-randolph):[Urbanization from Within](https://global.oup.com/academic/product/urbanization-from-within-9780197769089?cc=gb&lang=en&)   || |
 | 11    |30/11/2026 |      |   || |
 | 12    |07/12/2026 |      |   || |
 | TB1 AP    |14/12/2026 |      |   || |
