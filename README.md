@@ -30,6 +30,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 | AY week | w/b  | Room             | Speaker | SES Social event | Calendar created? |
 |------|-------|------------------|---------|-------------------| --------------- |
+| 0    |14/09/2026 |Fry G.06      |[Nadine Tami Coetzee](https://vbn.aau.dk/en/persons/ntc/) & [Steffen Bo Jensen](https://vbn.aau.dk/en/persons/sje/): The Good Malawian: Confinement, translocality and survival in a Cape Town squatter camp.|| |
 | 1    |21/09/2026 |Common room & SR2      |   |Welcoming (back) to the SES research group: Cakes, coffees, and chats| |
 | 2    |28/09/2026 |      |   || |
 | 3    |05/10/2026 |      |   || |
