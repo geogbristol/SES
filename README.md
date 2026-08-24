@@ -33,7 +33,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 0    |14/09/2026 |Fry G.06      |[Nadine Tami Coetzee](https://vbn.aau.dk/en/persons/ntc/) & [Steffen Bo Jensen](https://vbn.aau.dk/en/persons/sje/): The Good Malawian: Confinement, translocality and survival in a Cape Town squatter camp.|| |
 | 1    |21/09/2026 |Common room & SR2      |   |Welcoming (back) to the SES research group: Cakes, coffees, and chats| |
 | 2    |28/09/2026 |      |   || |
-| 3    |05/10/2026 |      |***SES** x SAGE seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   || |
+| 3    |05/10/2026 |      |*SES x SAGE seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   || |
 | 4    |12/10/2026 |      |   || |
 | 5    |19/10/2026 |      |[Adam Packer](https://research.birmingham.ac.uk/en/persons/adam-michael-packer/): Flight governance   || |
 | Consolidation week    |26/10/2026 |      |TBC: Julie MacLeavy   || |
