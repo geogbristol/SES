@@ -30,6 +30,7 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 ## Group PGR emails
 | **Name**            | **Email**       | 
 |---------------------|-----------------|
+|Jim Hobson | jim.hobson@bristol.ac.uk|
 |Beca Lleucu Phillips |beca_lleucu.phillips@bristol.ac.uk|
 |Shadma Ahmed |shadma.ahmed@bristol.ac.uk|
 |Chris Bean |chris.bean@bristol.ac.uk|
