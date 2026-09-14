@@ -31,7 +31,6 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 | **Name**            | **Email**       | 
 |---------------------|-----------------|
 |Chengyu Yang | chengyu.yang@bristol.ac.uk|
-|Dinushika Yapa Abeywardhana | hu25607@bristol.ac.uk|
 |Jim Hobson | jim.hobson@bristol.ac.uk|
 |Beca Lleucu Phillips |beca_lleucu.phillips@bristol.ac.uk|
 |Shadma Ahmed |shadma.ahmed@bristol.ac.uk|
