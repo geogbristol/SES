@@ -50,7 +50,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays    |04/01/2027 |      |   || |
 | TB2 PW    |11/01/2027 |      |   || |
 | 13    |18/01/2027 |      |   || |
-| 14    |25/01/2027 |      |   || |
+| 14    |25/01/2027 |      |TBC*SES x EiG session*: [Ewan Woodley](https://experts.exeter.ac.uk/20718-ewan-woodley)   || |
 | 15    |01/02/2027 |      |   || |
 | 16    |08/02/2027 |      |   || |
 | 17    |15/02/2027 |      |   || |
