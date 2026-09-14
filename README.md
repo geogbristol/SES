@@ -65,5 +65,5 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 23    |19/04/2027 |      |   || |
 | 24    |26/04/2027 |      |   || |
 | TB2 AP    |03/05/2027 |      |   || |
-| TB2 AP    |10/05/2027 |      |   || |
+| TB2 AP    |10/05/2027 *(Note this is on Wednesday)*|TBC *SES x WF session*: [Stefan Ouma](https://www.wigeo.uni-bayreuth.de/en/team/stefan-ouma/index.php):Coloniality and Capital      |   || |
 | TB2 AP    |17/05/2027 |      |   || |
