@@ -9,6 +9,7 @@ To gain access to this project, please register a GitHub account and email [Qiuj
 | **Name**            | **Email**       | 
 |---------------------|-----------------|		
 |[Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins)	|ed.atkins@bristol.ac.uk |		
+|Elgar Kamjou |elgar.kamjou@bristol.ac.uk|		
 |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/)	|james.duminy@bristol.ac.uk|		
 |[Jonathan Rigg](https://www.bristol.ac.uk/people/person/Jonathan-Rigg-cbcb0810-d16b-490a-8e8b-71e229ae0ebd/)	|jonathan.rigg@bristol.ac.uk|
 |[Joe Williams](https://www.bristol.ac.uk/people/person/Joe-Williams-751f7611-a95f-4b30-8b3e-90634ae56a74/)	|jg.williams@bristol.ac.uk	*(co-lead)*|		
