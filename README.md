@@ -43,7 +43,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 9    |16/11/2026 |FRY G.06      |*SES x PE session*: TBC: [Prince Guma](https://www.polis.cam.ac.uk/people/prince-guma)   || |
 | 10    |23/11/2026  *(Note this is on Wednesday)*|FRY G.06      |*+Lab x SES session*: TBC: [Gregory Randolph](https://planning.gatech.edu/people/gregory-randolph): [Urbanization from Within](https://global.oup.com/academic/product/urbanization-from-within-9780197769089?cc=gb&lang=en&)   || |
 | 11    |30/11/2026 |FRY G.06      |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/)   || |
-| 12    |07/12/2026 |FRY G.06      |   || |
+| 12    |07/12/2026 |FRY G.06      |TBC: [Sthembiso Mkhize](https://www.bristol.ac.uk/people/person/Sthembiso-Mkhize-24bc7012-9345-441e-8a84-861b7f5e08f5/)   || |
 | TB1 AP    |14/12/2026 |FRY 2.41      |   || |
 | Winter holidays    |21/12/2026 |      |   || |
 | Winter holidays    |28/12/2026 |      |   || |
