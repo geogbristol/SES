@@ -32,19 +32,19 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 |------|-------|------------------|---------|-------------------| --------------- |
 | 0    |14/09/2026 |FRY G.06      |[Nadine Tami Coetzee](https://vbn.aau.dk/en/persons/ntc/) & [Steffen Bo Jensen](https://vbn.aau.dk/en/persons/sje/): The Good Malawian: Confinement, translocality and survival in a Cape Town squatter camp.|| Y |
 | 1    |21/09/2026 |   |   || |
-| 2    |28/09/2026  *(Note this is on Wednesday)*|      |*SAGE x SES seminar:* [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero/): Unequal growth, unequal action: how growth inequality shapes adolescent pro-environmental behaviour across 58 nations  ||Y |
-| 3    |05/10/2026 |      |*SES x SAGE seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   || Y |
-| 4    |12/10/2026 |      |   || |
-| 5    |19/10/2026 |      |[Adam Packer](https://research.birmingham.ac.uk/en/persons/adam-michael-packer/): Flight governance   || Y |
+| 2    |28/09/2026  *(Note this is on Wednesday)*|FRY G.06      |*SAGE x SES seminar:* [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero/): Unequal growth, unequal action: how growth inequality shapes adolescent pro-environmental behaviour across 58 nations  ||Y |
+| 3    |05/10/2026 |FRY G.06      |*SES x SAGE seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   || Y |
+| 4    |12/10/2026 |FRY G.06      |   || |
+| 5    |19/10/2026 |FRY G.06      |[Adam Packer](https://research.birmingham.ac.uk/en/persons/adam-michael-packer/): Flight governance   || Y |
 | Consolidation week    |26/10/2026 |      |TBC: Julie MacLeavy   || |
-| Consolidation week    |26/10/2026 *(Note this is on Wednesday)* |FRY 2.41      |*SES x WF session*: [Tanya Matthan](https://www.lse.ac.uk/people/tanya-matthan): Harvesting Risk: Insurance and the Politics of Responsibility in Rural India|| Y |
-| 7    |02/11/2026 |      |*SES x SAGE session*: [Davide Luca](https://www.landecon.cam.ac.uk/directory/davide-luca)   || |
-| 8    |09/11/2026 |      |*PGR session*: Jade Zhou & Yimei Chen   || |
-| 9    |16/11/2026 |      |*SES x PE session*: TBC: [Prince Guma](https://www.polis.cam.ac.uk/people/prince-guma)   || |
-| 10    |23/11/2026  *(Note this is on Wednesday)*|      |*+Lab x SES session*: TBC: [Gregory Randolph](https://planning.gatech.edu/people/gregory-randolph): [Urbanization from Within](https://global.oup.com/academic/product/urbanization-from-within-9780197769089?cc=gb&lang=en&)   || |
-| 11    |30/11/2026 |      |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/)   || |
-| 12    |07/12/2026 |      |   || |
-| TB1 AP    |14/12/2026 |      |   || |
+| Consolidation week    |26/10/2026 *(Note this is on Wednesday)* |FRY G.06      |*SES x WF session*: [Tanya Matthan](https://www.lse.ac.uk/people/tanya-matthan): Harvesting Risk: Insurance and the Politics of Responsibility in Rural India|| Y |
+| 7    |02/11/2026 |FRY G.06      |*SES x SAGE session*: [Davide Luca](https://www.landecon.cam.ac.uk/directory/davide-luca)   || |
+| 8    |09/11/2026 |FRY G.06      |*PGR session*: Jade Zhou & Yimei Chen   || |
+| 9    |16/11/2026 |FRY G.06      |*SES x PE session*: TBC: [Prince Guma](https://www.polis.cam.ac.uk/people/prince-guma)   || |
+| 10    |23/11/2026  *(Note this is on Wednesday)*|FRY G.06      |*+Lab x SES session*: TBC: [Gregory Randolph](https://planning.gatech.edu/people/gregory-randolph): [Urbanization from Within](https://global.oup.com/academic/product/urbanization-from-within-9780197769089?cc=gb&lang=en&)   || |
+| 11    |30/11/2026 |FRY G.06      |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/)   || |
+| 12    |07/12/2026 |FRY G.06      |   || |
+| TB1 AP    |14/12/2026 |FRY G.06      |   || |
 | Winter holidays    |21/12/2026 |      |   || |
 | Winter holidays    |28/12/2026 |      |   || |
 | Winter holidays    |04/01/2027 |      |   || |
