@@ -36,7 +36,6 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 3    |05/10/2026 |FRY G.06      |*SES x SAGE seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)   || Y |
 | 4    |12/10/2026 |FRY G.06      |   || |
 | 5    |19/10/2026 |FRY G.06      |[Adam Packer](https://research.birmingham.ac.uk/en/persons/adam-michael-packer/): Flight governance   || Y |
-| Consolidation week    |26/10/2026 |      |TBC: Julie MacLeavy   || |
 | Consolidation week    |26/10/2026 *(Note this is on Wednesday)* |FRY 2.41      |*SES x WF session*: [Tanya Matthan](https://www.lse.ac.uk/people/tanya-matthan): Harvesting Risk: Insurance and the Politics of Responsibility in Rural India|| Y |
 | 7    |02/11/2026 |FRY G.06      |*SES x SAGE session*: [Davide Luca](https://www.landecon.cam.ac.uk/directory/davide-luca)   || |
 | 8    |09/11/2026 |FRY G.06      |*PGR session*: Jade Zhou & Yimei Chen   || |
@@ -49,7 +48,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays    |28/12/2026 |      |   || |
 | Winter holidays    |04/01/2027 |      |   || |
 | TB2 PW    |11/01/2027 |      |   || |
-| 13    |18/01/2027 |      |   || |
+| 13    |18/01/2027 |      |TBC: Julie MacLeavy   || |
 | 14    |25/01/2027 |      |TBC: *SES x EiG session*: [Ewan Woodley](https://experts.exeter.ac.uk/20718-ewan-woodley)   || |
 | 15    |01/02/2027 |      |   || |
 | 16    |08/02/2027 |      |   || |
