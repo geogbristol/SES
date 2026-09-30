@@ -63,6 +63,6 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 22    |12/04/2027 |FRY G.06        |   || |
 | 23    |19/04/2027 |FRY G.06        |   || |
 | 24    |26/04/2027 |FRY G.06        |   || |
-| TB2 AP    |03/05/2027 |      |   || |
-| TB2 AP    |10/05/2027 *(Note this is on Wednesday)*|      |TBC *SES x WF session*: [Stefan Ouma](https://www.wigeo.uni-bayreuth.de/en/team/stefan-ouma/index.php): Coloniality and Capital   || |
+| TB2 AP    |03/05/2027 |FRY 2.41      |   || |
+| TB2 AP    |10/05/2027 *(Note this is on Wednesday)*|FRY 2.41      |TBC *SES x WF session*: [Stefan Ouma](https://www.wigeo.uni-bayreuth.de/en/team/stefan-ouma/index.php): Coloniality and Capital   || |
 | TB2 AP    |17/05/2027 |      |   || |
