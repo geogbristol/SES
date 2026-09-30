@@ -48,15 +48,15 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays    |28/12/2026 |      |   || |
 | Winter holidays    |04/01/2027 |      |   || |
 | TB2 PW    |11/01/2027 |      |   || |
-| 13    |18/01/2027 |      |TBC: Julie MacLeavy   || |
-| 14    |25/01/2027 |      |TBC: *SES x EiG session*: [Ewan Woodley](https://experts.exeter.ac.uk/20718-ewan-woodley)   || |
-| 15    |01/02/2027 |      |   || |
-| 16    |08/02/2027 |      |   || |
-| 17    |15/02/2027 |      |   || |
-| Consolidation week    |22/02/2027 |      |   || |
-| 19    |01/03/2027 |      |   || |
-| 20    |08/03/2027 |      |   || |
-| 21    |15/03/2027 |      |   || |
+| 13    |18/01/2027 |FRY G.06        |TBC: Julie MacLeavy   || |
+| 14    |25/01/2027 |FRY G.06        |TBC: *SES x EiG session*: [Ewan Woodley](https://experts.exeter.ac.uk/20718-ewan-woodley)   || |
+| 15    |01/02/2027 |FRY G.06        |   || |
+| 16    |08/02/2027 |FRY G.06        |   || |
+| 17    |15/02/2027 |FRY G.06        |   || |
+| Consolidation week    |22/02/2027 |FRY G.06        |   || |
+| 19    |01/03/2027 |FRY G.06        |   || |
+| 20    |08/03/2027 |FRY G.06        |   || |
+| 21    |15/03/2027 |FRY G.06       |   || |
 | SV    |22/03/2027 |      |   || |
 | SV    |29/03/2027 |      |   || |
 | SV    |05/04/2027 |      |   || |
