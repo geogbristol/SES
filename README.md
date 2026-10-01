@@ -51,7 +51,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 13    |18/01/2027 |FRY G.06        |TBC: Julie MacLeavy   || |
 | 14    |25/01/2027 |FRY G.06        |TBC: *SES x EiG session*: [Ewan Woodley](https://experts.exeter.ac.uk/20718-ewan-woodley)   || |
 | 15    |01/02/2027 |FRY G.06        |   || |
-| 16    |08/02/2027 |FRY G.06        |   || |
+| 16    |08/02/2027 |FRY G.06        |TBC: *SES x WaterF session*: [Adrian Healy](https://profiles.cardiff.ac.uk/staff/healya2)   || |
 | 17    |15/02/2027 |FRY G.06        |   || |
 | Consolidation week    |22/02/2027 |FRY G.06        |   || |
 | 19    |01/03/2027 |FRY G.06        |   || |
