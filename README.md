@@ -50,7 +50,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | TB2 PW    |11/01/2027 |      |   || |
 | 13    |18/01/2027 |FRY G.06        |TBC: Julie MacLeavy   || |
 | 14    |25/01/2027 |FRY G.06        |TBC: *SES x EiG session*: [Ewan Woodley](https://experts.exeter.ac.uk/20718-ewan-woodley)   || |
-| 15    |01/02/2027 |FRY G.06        |   || |
+| 15    |01/02/2027 |FRY G.06        |TBC: Shadma Ahmed   || |
 | 16    |08/02/2027 |FRY G.06/Peel        |TBC: *SES x WaterF session*: [Adrian Healy](https://profiles.cardiff.ac.uk/staff/healya2)   || |
 | 17    |15/02/2027 |FRY G.06        |[Laurie Parsons](https://pure.royalholloway.ac.uk/en/persons/laurie-parsons/): [Climate Hegemony](https://press.lse.ac.uk/books/m/10.31389/lsepress.che)   || |
 | Consolidation week    |22/02/2027 |FRY G.06        |   || |
