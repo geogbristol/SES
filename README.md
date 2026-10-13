@@ -55,7 +55,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 17    |15/02/2027 |FRY G.06        |[Laurie Parsons](https://pure.royalholloway.ac.uk/en/persons/laurie-parsons/): [Climate Hegemony](https://press.lse.ac.uk/books/m/10.31389/lsepress.che)   || |
 | Consolidation week    |22/02/2027 |FRY G.06        |   || |
 | 19    |01/03/2027 |FRY G.06        |   || |
-| 20    |08/03/2027 |FRY G.06        TBC: [Elia Apostolopoulou](https://profiles.imperial.ac.uk/e.apostolopoulou)|   || |
+| 20    |08/03/2027 |FRY G.06        |TBC: [Elia Apostolopoulou](https://profiles.imperial.ac.uk/e.apostolopoulou)   || |
 | 21    |15/03/2027 |FRY G.06       |   || |
 | SV    |22/03/2027 |      |   || |
 | SV    |29/03/2027 |      |   || |
