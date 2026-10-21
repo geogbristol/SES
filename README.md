@@ -37,7 +37,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 4    |12/10/2026 |FRY G.06      |   || |
 | 5    |19/10/2026 |FRY G.06      |[Adam Packer](https://research.birmingham.ac.uk/en/persons/adam-michael-packer/): Flight governance   || Y |
 | Consolidation week    |26/10/2026 *(Note this is on Wednesday)* |FRY 2.41  |*SES x (WF)2 session*: [Tanya Matthan](https://www.lse.ac.uk/people/tanya-matthan): Harvesting Risk: Insurance and the Politics of Responsibility in Rural India|| Y |
-| 7    |02/11/2026 |FRY G.06      |*SES x SAGE session*: [Davide Luca](https://www.landecon.cam.ac.uk/directory/davide-luca):Political discontent and its geographies: Who, where, when, why and so what?   ||Y |
+| 7    |02/11/2026 |FRY G.06      |*SES x SAGE session*: [Davide Luca](https://www.landecon.cam.ac.uk/directory/davide-luca): Political discontent and its geographies: Who, where, when, why and so what?   ||Y |
 | 8    |09/11/2026 |FRY G.06      |*PGR session*: Jade Zhou & Yimei Chen   ||Y |
 | 9    |16/11/2026 |FRY G.06      |*SES x PE session*: [Prince Guma](https://www.polis.cam.ac.uk/people/prince-guma): Geographies of Everyday Digital Infrastructuring: The Nairobi Experiment   ||Y |
 | 10    |23/11/2026  *(Note this is on Wednesday)*|FRY 2.41/G.09/Hepple      |*+Lab x SES session*: [Gregory Randolph](https://planning.gatech.edu/people/gregory-randolph): [Urbanization from Within](https://global.oup.com/academic/product/urbanization-from-within-9780197769089?cc=gb&lang=en&)   ||Y |
