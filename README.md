@@ -42,7 +42,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 9    |16/11/2026 |FRY G.06      |*SES x PE session*: [Prince Guma](https://www.polis.cam.ac.uk/people/prince-guma): Geographies of Everyday Digital Infrastructuring: The Nairobi Experiment   ||Y |
 | 10    |23/11/2026  *(Note this is on Wednesday)*|FRY 2.41/G.09/Hepple      |*+Lab x SES session*: [Gregory Randolph](https://planning.gatech.edu/people/gregory-randolph): [Urbanization from Within](https://global.oup.com/academic/product/urbanization-from-within-9780197769089?cc=gb&lang=en&)   ||Y |
 | 11    |30/11/2026 |FRY G.06      |[James Duminy](https://www.bristol.ac.uk/people/person/James-Duminy-154b34ba-2712-48df-9d6f-31aa48751db4/)   || |
-| 12    |07/12/2026 |FRY G.06      |TBC: [Sthembiso Mkhize](https://www.bristol.ac.uk/people/person/Sthembiso-Mkhize-24bc7012-9345-441e-8a84-861b7f5e08f5/)   ||Y |
+| 12    |07/12/2026 |FRY G.06      |TBC: [Sthembiso Mkhize](https://www.bristol.ac.uk/people/person/Sthembiso-Mkhize-24bc7012-9345-441e-8a84-861b7f5e08f5/): Thinking urban, imagining rural: the making of measurable categories for sex, gender and sexuality in South African social surveys   ||Y |
 | TB1 AP    |14/12/2026 |FRY 2.41      |   || |
 | Winter holidays    |21/12/2026 |      |   || |
 | Winter holidays    |28/12/2026 |      |   || |
